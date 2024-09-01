@@ -1,0 +1,1784 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Belgium,Historical,EV sales,Vans,BEV,2010,Vehicles,7
+Belgium,Historical,EV stock,Vans,BEV,2010,Vehicles,62
+Belgium,Historical,EV sales share,Vans,EV,2010,percent,0.013000000268220901
+Belgium,Historical,EV stock share,Vans,EV,2010,percent,0.010999999940395355
+Belgium,Historical,EV stock share,Vans,EV,2011,percent,0.013000000268220901
+Belgium,Historical,EV sales share,Vans,EV,2011,percent,0.039000000804662704
+Belgium,Historical,EV stock,Vans,BEV,2011,Vehicles,79
+Belgium,Historical,EV sales,Vans,BEV,2011,Vehicles,25
+Belgium,Historical,EV sales,Vans,BEV,2012,Vehicles,260
+Belgium,Historical,EV stock,Vans,BEV,2012,Vehicles,330
+Belgium,Historical,EV sales share,Vans,EV,2012,percent,0.46000000834465027
+Belgium,Historical,EV stock share,Vans,EV,2012,percent,0.05299999937415123
+Belgium,Historical,EV stock share,Vans,EV,2013,percent,0.06700000166893005
+Belgium,Historical,EV sales share,Vans,EV,2013,percent,0.1899999976158142
+Belgium,Historical,EV stock,Vans,BEV,2013,Vehicles,430
+Belgium,Historical,EV sales,Vans,BEV,2013,Vehicles,110
+Belgium,Historical,EV sales,Vans,BEV,2014,Vehicles,99
+Belgium,Historical,EV stock,Vans,BEV,2014,Vehicles,520
+Belgium,Historical,EV sales share,Vans,EV,2014,percent,0.18000000715255737
+Belgium,Historical,EV stock share,Vans,EV,2014,percent,0.07900000363588333
+Belgium,Historical,EV stock share,Vans,EV,2015,percent,0.08500000089406967
+Belgium,Historical,EV sales share,Vans,EV,2015,percent,0.10999999940395355
+Belgium,Historical,EV sales,Vans,BEV,2015,Vehicles,68
+Belgium,Historical,EV stock,Vans,BEV,2015,Vehicles,570
+Belgium,Historical,EV stock,Vans,BEV,2016,Vehicles,690
+Belgium,Historical,EV sales,Vans,BEV,2016,Vehicles,140
+Belgium,Historical,EV stock,Vans,PHEV,2016,Vehicles,1
+Belgium,Historical,EV sales share,Vans,EV,2016,percent,0.20999999344348907
+Belgium,Historical,EV stock share,Vans,EV,2016,percent,0.09700000286102295
+Belgium,Historical,EV stock share,Vans,EV,2017,percent,0.10999999940395355
+Belgium,Historical,EV sales share,Vans,EV,2017,percent,0.17000000178813934
+Belgium,Historical,EV stock,Vans,PHEV,2017,Vehicles,4
+Belgium,Historical,EV sales,Vans,PHEV,2017,Vehicles,1
+Belgium,Historical,EV sales,Vans,BEV,2017,Vehicles,130
+Belgium,Historical,EV stock,Vans,BEV,2017,Vehicles,780
+Belgium,Historical,EV stock,Vans,BEV,2018,Vehicles,1000
+Belgium,Historical,EV sales,Vans,BEV,2018,Vehicles,260
+Belgium,Historical,EV sales,Vans,PHEV,2018,Vehicles,2
+Belgium,Historical,EV stock,Vans,PHEV,2018,Vehicles,7
+Belgium,Historical,EV sales share,Vans,EV,2018,percent,0.3400000035762787
+Belgium,Historical,EV stock share,Vans,EV,2018,percent,0.12999999523162842
+Belgium,Historical,EV sales share,Vans,EV,2019,percent,0.49000000953674316
+Belgium,Historical,EV stock,Vans,PHEV,2019,Vehicles,13
+Belgium,Historical,EV sales,Vans,BEV,2019,Vehicles,400
+Belgium,Historical,EV stock,Vans,BEV,2019,Vehicles,1400
+Belgium,Historical,EV stock share,Vans,EV,2019,percent,0.17000000178813934
+Belgium,Historical,EV stock share,Vans,EV,2020,percent,0.2199999988079071
+Belgium,Historical,EV stock,Vans,BEV,2020,Vehicles,1800
+Belgium,Historical,EV sales,Vans,BEV,2020,Vehicles,470
+Belgium,Historical,EV stock,Vans,PHEV,2020,Vehicles,50
+Belgium,Historical,EV sales,Vans,PHEV,2020,Vehicles,26
+Belgium,Historical,EV sales share,Vans,EV,2020,percent,0.699999988079071
+Belgium,Historical,EV sales share,Vans,EV,2021,percent,0.8799999952316284
+Belgium,Historical,EV sales,Vans,PHEV,2021,Vehicles,39
+Belgium,Historical,EV stock,Vans,PHEV,2021,Vehicles,110
+Belgium,Historical,EV stock,Vans,FCEV,2021,Vehicles,1
+Belgium,Historical,EV sales,Vans,BEV,2021,Vehicles,640
+Belgium,Historical,EV stock,Vans,BEV,2021,Vehicles,2400
+Belgium,Historical,EV stock share,Vans,EV,2021,percent,0.30000001192092896
+Belgium,Historical,EV stock share,Vans,EV,2022,percent,0.5099999904632568
+Belgium,Historical,EV stock,Vans,BEV,2022,Vehicles,4100
+Belgium,Historical,EV sales,Vans,BEV,2022,Vehicles,1800
+Belgium,Historical,EV stock,Vans,FCEV,2022,Vehicles,1
+Belgium,Historical,EV stock,Vans,PHEV,2022,Vehicles,240
+Belgium,Historical,EV sales,Vans,PHEV,2022,Vehicles,98
+Belgium,Historical,EV sales share,Vans,EV,2022,percent,3.4000000953674316
+Belgium,Historical,EV sales share,Vans,EV,2023,percent,4.599999904632568
+Belgium,Historical,EV sales,Vans,PHEV,2023,Vehicles,24
+Belgium,Historical,EV stock,Vans,PHEV,2023,Vehicles,190
+Belgium,Historical,EV sales,Vans,BEV,2023,Vehicles,3100
+Belgium,Historical,EV stock,Vans,BEV,2023,Vehicles,7500
+Belgium,Historical,EV stock share,Vans,EV,2023,percent,0.8899999856948853
+Brazil,Historical,EV sales share,Vans,EV,2013,percent,0.00139999995008111
+Brazil,Historical,EV sales,Vans,BEV,2013,Vehicles,7
+Brazil,Historical,EV sales,Vans,BEV,2014,Vehicles,13
+Brazil,Historical,EV sales share,Vans,EV,2014,percent,0.0026000000070780516
+Brazil,Historical,EV sales,Vans,BEV,2015,Vehicles,3
+Brazil,Historical,EV sales share,Vans,EV,2015,percent,0.0008999999845400453
+Brazil,Historical,EV sales share,Vans,EV,2016,percent,0.002099999925121665
+Brazil,Historical,EV sales,Vans,BEV,2016,Vehicles,6
+Brazil,Historical,EV sales,Vans,BEV,2017,Vehicles,18
+Brazil,Historical,EV sales share,Vans,EV,2017,percent,0.006000000052154064
+Brazil,Historical,EV sales share,Vans,EV,2018,percent,0.00139999995008111
+Brazil,Historical,EV stock share,Vans,EV,2018,percent,0.00007599999662488699
+Brazil,Historical,EV sales,Vans,BEV,2018,Vehicles,5
+Brazil,Historical,EV stock,Vans,BEV,2018,Vehicles,4
+Brazil,Historical,EV stock,Vans,BEV,2019,Vehicles,15
+Brazil,Historical,EV sales,Vans,BEV,2019,Vehicles,14
+Brazil,Historical,EV stock share,Vans,EV,2019,percent,0.0002800000074785203
+Brazil,Historical,EV sales share,Vans,EV,2019,percent,0.003700000001117587
+Brazil,Historical,EV sales share,Vans,EV,2020,percent,0.017999999225139618
+Brazil,Historical,EV stock share,Vans,EV,2020,percent,0.0004799999878741801
+Brazil,Historical,EV sales,Vans,BEV,2020,Vehicles,58
+Brazil,Historical,EV stock,Vans,BEV,2020,Vehicles,27
+Brazil,Historical,EV stock,Vans,BEV,2021,Vehicles,170
+Brazil,Historical,EV sales,Vans,BEV,2021,Vehicles,150
+Brazil,Historical,EV stock share,Vans,EV,2021,percent,0.002899999963119626
+Brazil,Historical,EV sales share,Vans,EV,2021,percent,0.035999998450279236
+Brazil,Historical,EV sales share,Vans,EV,2022,percent,0.12999999523162842
+Brazil,Historical,EV stock share,Vans,EV,2022,percent,0.017999999225139618
+Brazil,Historical,EV sales,Vans,BEV,2022,Vehicles,520
+Brazil,Historical,EV stock,Vans,BEV,2022,Vehicles,1100
+Brazil,Historical,EV stock,Vans,BEV,2023,Vehicles,1500
+Brazil,Historical,EV sales,Vans,BEV,2023,Vehicles,690
+Brazil,Historical,EV stock share,Vans,EV,2023,percent,0.02199999988079071
+Brazil,Historical,EV sales share,Vans,EV,2023,percent,0.1599999964237213
+Canada,Historical,EV sales share,Vans,EV,2015,percent,0.002400000113993883
+Canada,Historical,EV stock share,Vans,EV,2015,percent,0.0002099999983329326
+Canada,Historical,EV sales,Vans,BEV,2015,Vehicles,1
+Canada,Historical,EV sales,Vans,FCEV,2015,Vehicles,9
+Canada,Historical,EV stock,Vans,FCEV,2015,Vehicles,9
+Canada,Historical,EV stock,Vans,BEV,2015,Vehicles,1
+Canada,Historical,EV sales,Vans,PHEV,2015,Vehicles,5
+Canada,Historical,EV stock,Vans,PHEV,2015,Vehicles,5
+Canada,Historical,EV stock,Vans,PHEV,2016,Vehicles,5
+Canada,Historical,EV stock,Vans,BEV,2016,Vehicles,1
+Canada,Historical,EV stock,Vans,FCEV,2016,Vehicles,9
+Canada,Historical,EV stock share,Vans,EV,2016,percent,0.00019999999494757503
+Canada,Historical,EV stock share,Vans,EV,2017,percent,0.0001900000061141327
+Canada,Historical,EV stock,Vans,FCEV,2017,Vehicles,9
+Canada,Historical,EV stock,Vans,BEV,2017,Vehicles,1
+Canada,Historical,EV stock,Vans,PHEV,2017,Vehicles,5
+Canada,Historical,EV stock,Vans,PHEV,2018,Vehicles,5
+Canada,Historical,EV stock,Vans,BEV,2018,Vehicles,1
+Canada,Historical,EV stock,Vans,FCEV,2018,Vehicles,9
+Canada,Historical,EV stock share,Vans,EV,2018,percent,0.00018000000272877514
+Canada,Historical,EV stock share,Vans,EV,2019,percent,0.00016999999934341758
+Canada,Historical,EV stock,Vans,FCEV,2019,Vehicles,9
+Canada,Historical,EV stock,Vans,BEV,2019,Vehicles,1
+Canada,Historical,EV stock,Vans,PHEV,2019,Vehicles,5
+Canada,Historical,EV sales,Vans,PHEV,2020,Vehicles,1400
+Canada,Historical,EV stock,Vans,FCEV,2020,Vehicles,16
+Canada,Historical,EV sales,Vans,BEV,2020,Vehicles,1600
+Canada,Historical,EV sales share,Vans,EV,2020,percent,1.399999976158142
+Canada,Historical,EV sales share,Vans,EV,2021,percent,1.7999999523162842
+Canada,Historical,EV sales,Vans,BEV,2021,Vehicles,2600
+Canada,Historical,EV stock,Vans,FCEV,2021,Vehicles,44
+Canada,Historical,EV sales,Vans,PHEV,2021,Vehicles,2600
+Canada,Historical,EV sales,Vans,PHEV,2022,Vehicles,3100
+Canada,Historical,EV stock,Vans,FCEV,2022,Vehicles,44
+Canada,Historical,EV sales,Vans,BEV,2022,Vehicles,7000
+Canada,Historical,EV sales share,Vans,EV,2022,percent,5.099999904632568
+Canada,Historical,EV sales share,Vans,EV,2023,percent,5.5
+Canada,Historical,EV sales,Vans,BEV,2023,Vehicles,9100
+Canada,Historical,EV stock,Vans,FCEV,2023,Vehicles,9
+Canada,Historical,EV sales,Vans,PHEV,2023,Vehicles,4100
+China,Historical,Electricity demand,Vans,EV,2010,GWh,3
+China,Historical,EV sales,Vans,BEV,2010,Vehicles,120
+China,Historical,EV stock,Vans,BEV,2010,Vehicles,400
+China,Historical,EV stock share,Vans,EV,2010,percent,0.005499999970197678
+China,Historical,EV sales share,Vans,EV,2010,percent,0.009999999776482582
+China,Historical,Oil displacement Mbd,Vans,EV,2010,Milion barrels per day,0.000009999999747378752
+China,Historical,"Oil displacement, million lge",Vans,EV,2010,"Oil displacement, million lge",0.6200000047683716
+China,Historical,Oil displacement Mbd,Vans,EV,2011,Milion barrels per day,0.000012999999853491317
+China,Historical,"Oil displacement, million lge",Vans,EV,2011,"Oil displacement, million lge",0.8100000023841858
+China,Historical,EV sales share,Vans,EV,2011,percent,0.01600000075995922
+China,Historical,EV stock share,Vans,EV,2011,percent,0.008899999782443047
+China,Historical,EV stock,Vans,BEV,2011,Vehicles,700
+China,Historical,EV sales,Vans,BEV,2011,Vehicles,150
+China,Historical,Electricity demand,Vans,EV,2011,GWh,2.5
+China,Historical,Electricity demand,Vans,EV,2012,GWh,4
+China,Historical,EV sales,Vans,BEV,2012,Vehicles,670
+China,Historical,EV stock,Vans,BEV,2012,Vehicles,1200
+China,Historical,EV stock share,Vans,EV,2012,percent,0.014000000432133675
+China,Historical,EV sales share,Vans,EV,2012,percent,0.0729999989271164
+China,Historical,Oil displacement Mbd,Vans,EV,2012,Milion barrels per day,0.000029999999242136255
+China,Historical,"Oil displacement, million lge",Vans,EV,2012,"Oil displacement, million lge",1.7999999523162842
+China,Historical,Oil displacement Mbd,Vans,EV,2013,Milion barrels per day,0.0000470000013592653
+China,Historical,"Oil displacement, million lge",Vans,EV,2013,"Oil displacement, million lge",2.799999952316284
+China,Historical,EV sales share,Vans,EV,2013,percent,0.07599999755620956
+China,Historical,EV stock share,Vans,EV,2013,percent,0.019999999552965164
+China,Historical,EV stock,Vans,BEV,2013,Vehicles,1800
+China,Historical,EV sales,Vans,BEV,2013,Vehicles,750
+China,Historical,Electricity demand,Vans,EV,2013,GWh,6
+China,Historical,Electricity demand,Vans,EV,2014,GWh,8
+China,Historical,EV sales,Vans,BEV,2014,Vehicles,480
+China,Historical,EV stock,Vans,BEV,2014,Vehicles,2500
+China,Historical,EV stock share,Vans,EV,2014,percent,0.02500000037252903
+China,Historical,EV sales share,Vans,EV,2014,percent,0.04500000178813934
+China,Historical,Oil displacement Mbd,Vans,EV,2014,Milion barrels per day,0.00005400000009103678
+China,Historical,"Oil displacement, million lge",Vans,EV,2014,"Oil displacement, million lge",3.200000047683716
+China,Historical,Oil displacement Mbd,Vans,EV,2015,Milion barrels per day,0.00044999999227002263
+China,Historical,"Oil displacement, million lge",Vans,EV,2015,"Oil displacement, million lge",27
+China,Historical,EV sales share,Vans,EV,2015,percent,1.399999976158142
+China,Historical,EV stock share,Vans,EV,2015,percent,0.14000000059604645
+China,Historical,EV stock,Vans,BEV,2015,Vehicles,15000
+China,Historical,EV sales,Vans,BEV,2015,Vehicles,15000
+China,Historical,EV stock,Vans,PHEV,2015,Vehicles,17
+China,Historical,Electricity demand,Vans,EV,2015,GWh,93
+China,Historical,Electricity demand,Vans,EV,2016,GWh,120
+China,Historical,EV stock,Vans,PHEV,2016,Vehicles,17
+China,Historical,EV sales,Vans,BEV,2016,Vehicles,11000
+China,Historical,EV stock,Vans,BEV,2016,Vehicles,53000
+China,Historical,EV stock share,Vans,EV,2016,percent,0.4699999988079071
+China,Historical,EV sales share,Vans,EV,2016,percent,0.8799999952316284
+China,Historical,Oil displacement Mbd,Vans,EV,2016,Milion barrels per day,0.0006399999838322401
+China,Historical,"Oil displacement, million lge",Vans,EV,2016,"Oil displacement, million lge",38
+China,Historical,Oil displacement Mbd,Vans,EV,2017,Milion barrels per day,0.0031999999191612005
+China,Historical,"Oil displacement, million lge",Vans,EV,2017,"Oil displacement, million lge",190
+China,Historical,EV sales share,Vans,EV,2017,percent,4.900000095367432
+China,Historical,EV stock share,Vans,EV,2017,percent,0.9700000286102295
+China,Historical,EV stock,Vans,BEV,2017,Vehicles,120000
+China,Historical,EV sales,Vans,BEV,2017,Vehicles,68000
+China,Historical,EV stock,Vans,PHEV,2017,Vehicles,17
+China,Historical,Electricity demand,Vans,EV,2017,GWh,540
+China,Historical,Electricity demand,Vans,EV,2018,GWh,490
+China,Historical,EV stock,Vans,PHEV,2018,Vehicles,17
+China,Historical,EV sales,Vans,BEV,2018,Vehicles,54000
+China,Historical,EV stock,Vans,BEV,2018,Vehicles,200000
+China,Historical,EV stock share,Vans,EV,2018,percent,1.5
+China,Historical,EV sales share,Vans,EV,2018,percent,3.5
+China,Historical,Oil displacement Mbd,Vans,EV,2018,Milion barrels per day,0.002899999963119626
+China,Historical,"Oil displacement, million lge",Vans,EV,2018,"Oil displacement, million lge",170
+China,Historical,Oil displacement Mbd,Vans,EV,2019,Milion barrels per day,0.003100000089034438
+China,Historical,"Oil displacement, million lge",Vans,EV,2019,"Oil displacement, million lge",190
+China,Historical,EV sales share,Vans,EV,2019,percent,1.600000023841858
+China,Historical,EV stock share,Vans,EV,2019,percent,1.7000000476837158
+China,Historical,EV stock,Vans,BEV,2019,Vehicles,250000
+China,Historical,EV sales,Vans,BEV,2019,Vehicles,27000
+China,Historical,EV stock,Vans,PHEV,2019,Vehicles,44
+China,Historical,EV sales,Vans,PHEV,2019,Vehicles,27
+China,Historical,Electricity demand,Vans,EV,2019,GWh,500
+China,Historical,Electricity demand,Vans,EV,2020,GWh,480
+China,Historical,EV sales,Vans,PHEV,2020,Vehicles,1
+China,Historical,EV stock,Vans,PHEV,2020,Vehicles,77
+China,Historical,EV sales,Vans,BEV,2020,Vehicles,26000
+China,Historical,EV stock,Vans,BEV,2020,Vehicles,270000
+China,Historical,EV stock share,Vans,EV,2020,percent,1.7000000476837158
+China,Historical,EV sales share,Vans,EV,2020,percent,1.399999976158142
+China,Historical,Oil displacement Mbd,Vans,EV,2020,Milion barrels per day,0.003000000026077032
+China,Historical,"Oil displacement, million lge",Vans,EV,2020,"Oil displacement, million lge",180
+China,Historical,Oil displacement Mbd,Vans,EV,2021,Milion barrels per day,0.00419999985024333
+China,Historical,EV sales share,Vans,EV,2021,percent,4.099999904632568
+China,Historical,EV stock share,Vans,EV,2021,percent,2
+China,Historical,EV stock,Vans,BEV,2021,Vehicles,330000
+China,Historical,EV sales,Vans,BEV,2021,Vehicles,71000
+China,Historical,EV stock,Vans,PHEV,2021,Vehicles,230
+China,Historical,EV sales,Vans,PHEV,2021,Vehicles,160
+China,Historical,EV sales,Vans,FCEV,2021,Vehicles,3
+China,Historical,EV stock,Vans,FCEV,2021,Vehicles,3
+China,Historical,Electricity demand,Vans,EV,2021,GWh,730
+China,Historical,"Oil displacement, million lge",Vans,EV,2021,"Oil displacement, million lge",250
+China,Historical,Oil displacement Mbd,Vans,EV,2022,Milion barrels per day,0.006500000134110451
+China,Historical,"Oil displacement, million lge",Vans,EV,2022,"Oil displacement, million lge",390
+China,Historical,Electricity demand,Vans,EV,2022,GWh,940
+China,Historical,EV stock,Vans,FCEV,2022,Vehicles,810
+China,Historical,EV sales,Vans,FCEV,2022,Vehicles,810
+China,Historical,EV sales,Vans,PHEV,2022,Vehicles,1500
+China,Historical,EV stock,Vans,PHEV,2022,Vehicles,1700
+China,Historical,EV sales,Vans,BEV,2022,Vehicles,170000
+China,Historical,EV stock,Vans,BEV,2022,Vehicles,460000
+China,Historical,EV stock share,Vans,EV,2022,percent,2.5999999046325684
+China,Historical,EV sales share,Vans,EV,2022,percent,11
+China,Historical,EV sales share,Vans,EV,2023,percent,12
+China,Historical,EV stock share,Vans,EV,2023,percent,3.5999999046325684
+China,Historical,EV stock,Vans,BEV,2023,Vehicles,680000
+China,Historical,EV sales,Vans,BEV,2023,Vehicles,240000
+China,Historical,EV stock,Vans,PHEV,2023,Vehicles,1700
+China,Historical,EV sales,Vans,FCEV,2023,Vehicles,1900
+China,Historical,EV stock,Vans,FCEV,2023,Vehicles,2700
+China,Historical,Electricity demand,Vans,EV,2023,GWh,1200
+China,Historical,Oil displacement Mbd,Vans,EV,2023,Milion barrels per day,0.009800000116229057
+China,Historical,"Oil displacement, million lge",Vans,EV,2023,"Oil displacement, million lge",590
+Denmark,Historical,EV sales share,Vans,EV,2010,percent,0.03700000047683716
+Denmark,Historical,EV sales,Vans,BEV,2010,Vehicles,6
+Denmark,Historical,EV stock,Vans,BEV,2010,Vehicles,6
+Denmark,Historical,EV stock share,Vans,EV,2010,percent,0.00139999995008111
+Denmark,Historical,EV stock share,Vans,EV,2011,percent,0.006800000090152025
+Denmark,Historical,EV stock,Vans,BEV,2011,Vehicles,29
+Denmark,Historical,EV sales,Vans,BEV,2011,Vehicles,23
+Denmark,Historical,EV sales share,Vans,EV,2011,percent,0.09700000286102295
+Denmark,Historical,EV sales share,Vans,EV,2012,percent,0.5600000023841858
+Denmark,Historical,EV sales,Vans,BEV,2012,Vehicles,130
+Denmark,Historical,EV stock,Vans,BEV,2012,Vehicles,220
+Denmark,Historical,EV stock,Vans,PHEV,2012,Vehicles,9
+Denmark,Historical,EV sales,Vans,PHEV,2012,Vehicles,8
+Denmark,Historical,EV stock share,Vans,EV,2012,percent,0.054999999701976776
+Denmark,Historical,EV stock share,Vans,EV,2013,percent,0.07999999821186066
+Denmark,Historical,EV sales,Vans,PHEV,2013,Vehicles,2
+Denmark,Historical,EV stock,Vans,PHEV,2013,Vehicles,12
+Denmark,Historical,EV stock,Vans,BEV,2013,Vehicles,310
+Denmark,Historical,EV sales,Vans,BEV,2013,Vehicles,100
+Denmark,Historical,EV sales share,Vans,EV,2013,percent,0.4399999976158142
+Denmark,Historical,EV sales share,Vans,EV,2014,percent,0.17000000178813934
+Denmark,Historical,EV sales,Vans,BEV,2014,Vehicles,47
+Denmark,Historical,EV stock,Vans,BEV,2014,Vehicles,350
+Denmark,Historical,EV stock,Vans,PHEV,2014,Vehicles,14
+Denmark,Historical,EV sales,Vans,PHEV,2014,Vehicles,2
+Denmark,Historical,EV stock share,Vans,EV,2014,percent,0.09200000017881393
+Denmark,Historical,EV stock share,Vans,EV,2015,percent,0.17000000178813934
+Denmark,Historical,EV sales,Vans,PHEV,2015,Vehicles,85
+Denmark,Historical,EV stock,Vans,PHEV,2015,Vehicles,100
+Denmark,Historical,EV stock,Vans,BEV,2015,Vehicles,590
+Denmark,Historical,EV sales,Vans,BEV,2015,Vehicles,260
+Denmark,Historical,EV sales share,Vans,EV,2015,percent,1.100000023841858
+Denmark,Historical,EV sales share,Vans,EV,2016,percent,0.3799999952316284
+Denmark,Historical,EV sales,Vans,BEV,2016,Vehicles,57
+Denmark,Historical,EV stock,Vans,BEV,2016,Vehicles,620
+Denmark,Historical,EV stock,Vans,PHEV,2016,Vehicles,180
+Denmark,Historical,EV sales,Vans,PHEV,2016,Vehicles,81
+Denmark,Historical,EV stock share,Vans,EV,2016,percent,0.20000000298023224
+Denmark,Historical,EV stock share,Vans,EV,2017,percent,0.18000000715255737
+Denmark,Historical,EV sales,Vans,PHEV,2017,Vehicles,24
+Denmark,Historical,EV stock,Vans,PHEV,2017,Vehicles,200
+Denmark,Historical,EV stock,Vans,BEV,2017,Vehicles,510
+Denmark,Historical,EV sales,Vans,BEV,2017,Vehicles,70
+Denmark,Historical,EV sales share,Vans,EV,2017,percent,0.25999999046325684
+Denmark,Historical,EV sales share,Vans,EV,2018,percent,0.75
+Denmark,Historical,EV sales,Vans,BEV,2018,Vehicles,220
+Denmark,Historical,EV stock,Vans,BEV,2018,Vehicles,670
+Denmark,Historical,EV stock,Vans,PHEV,2018,Vehicles,230
+Denmark,Historical,EV sales,Vans,PHEV,2018,Vehicles,31
+Denmark,Historical,EV stock share,Vans,EV,2018,percent,0.23000000417232513
+Denmark,Historical,EV stock share,Vans,EV,2019,percent,0.3100000023841858
+Denmark,Historical,EV sales,Vans,PHEV,2019,Vehicles,34
+Denmark,Historical,EV stock,Vans,BEV,2019,Vehicles,900
+Denmark,Historical,EV sales,Vans,BEV,2019,Vehicles,270
+Denmark,Historical,EV sales share,Vans,EV,2019,percent,0.9100000262260437
+Denmark,Historical,EV stock,Vans,PHEV,2019,Vehicles,260
+Denmark,Historical,EV stock,Vans,PHEV,2020,Vehicles,430
+Denmark,Historical,EV sales share,Vans,EV,2020,percent,2.5
+Denmark,Historical,EV sales,Vans,BEV,2020,Vehicles,620
+Denmark,Historical,EV stock,Vans,BEV,2020,Vehicles,1300
+Denmark,Historical,EV sales,Vans,PHEV,2020,Vehicles,160
+Denmark,Historical,EV stock,Vans,FCEV,2020,Vehicles,1
+Denmark,Historical,EV stock share,Vans,EV,2020,percent,0.4699999988079071
+Denmark,Historical,EV stock share,Vans,EV,2021,percent,0.9200000166893005
+Denmark,Historical,EV stock,Vans,FCEV,2021,Vehicles,3
+Denmark,Historical,EV sales,Vans,FCEV,2021,Vehicles,2
+Denmark,Historical,EV sales,Vans,PHEV,2021,Vehicles,320
+Denmark,Historical,EV stock,Vans,BEV,2021,Vehicles,2600
+Denmark,Historical,EV sales,Vans,BEV,2021,Vehicles,1500
+Denmark,Historical,EV sales share,Vans,EV,2021,percent,5.699999809265137
+Denmark,Historical,EV stock,Vans,PHEV,2021,Vehicles,780
+Denmark,Historical,EV stock,Vans,PHEV,2022,Vehicles,1200
+Denmark,Historical,EV sales share,Vans,EV,2022,percent,8.699999809265137
+Denmark,Historical,EV sales,Vans,BEV,2022,Vehicles,1900
+Denmark,Historical,EV stock,Vans,BEV,2022,Vehicles,4400
+Denmark,Historical,EV sales,Vans,PHEV,2022,Vehicles,370
+Denmark,Historical,EV stock,Vans,FCEV,2022,Vehicles,2
+Denmark,Historical,EV stock share,Vans,EV,2022,percent,1.5
+Denmark,Historical,EV stock share,Vans,EV,2023,percent,2.4000000953674316
+Denmark,Historical,EV stock,Vans,FCEV,2023,Vehicles,2
+Denmark,Historical,EV sales,Vans,PHEV,2023,Vehicles,370
+Denmark,Historical,EV stock,Vans,BEV,2023,Vehicles,7300
+Denmark,Historical,EV sales,Vans,BEV,2023,Vehicles,2900
+Denmark,Historical,EV sales share,Vans,EV,2023,percent,13
+Denmark,Historical,EV stock,Vans,PHEV,2023,Vehicles,1500
+EU27,Historical,EV sales,Vans,BEV,2010,Vehicles,1300
+EU27,Historical,EV stock,Vans,BEV,2010,Vehicles,2900
+EU27,Historical,EV sales,Vans,FCEV,2010,Vehicles,2
+EU27,Historical,EV stock,Vans,FCEV,2010,Vehicles,2
+EU27,Historical,EV stock,Vans,PHEV,2010,Vehicles,210
+EU27,Historical,EV sales share,Vans,EV,2010,percent,0.10000000149011612
+EU27,Historical,EV stock share,Vans,EV,2010,percent,0.013000000268220901
+EU27,Historical,EV stock share,Vans,EV,2011,percent,0.020999999716877937
+EU27,Historical,EV sales share,Vans,EV,2011,percent,0.17000000178813934
+EU27,Historical,EV stock,Vans,FCEV,2011,Vehicles,2
+EU27,Historical,EV stock,Vans,BEV,2011,Vehicles,5100
+EU27,Historical,EV sales,Vans,BEV,2011,Vehicles,2200
+EU27,Historical,EV stock,Vans,PHEV,2011,Vehicles,260
+EU27,Historical,EV stock,Vans,PHEV,2012,Vehicles,310
+EU27,Historical,EV sales,Vans,BEV,2012,Vehicles,6500
+EU27,Historical,EV stock,Vans,BEV,2012,Vehicles,12000
+EU27,Historical,EV stock,Vans,FCEV,2012,Vehicles,3
+EU27,Historical,EV sales,Vans,PHEV,2012,Vehicles,11
+EU27,Historical,EV sales share,Vans,EV,2012,percent,0.5799999833106995
+EU27,Historical,EV stock share,Vans,EV,2012,percent,0.04699999839067459
+EU27,Historical,EV stock share,Vans,EV,2013,percent,0.07400000095367432
+EU27,Historical,EV sales share,Vans,EV,2013,percent,0.6200000047683716
+EU27,Historical,EV sales,Vans,PHEV,2013,Vehicles,5
+EU27,Historical,EV stock,Vans,FCEV,2013,Vehicles,3
+EU27,Historical,EV stock,Vans,BEV,2013,Vehicles,18000
+EU27,Historical,EV sales,Vans,FCEV,2013,Vehicles,1
+EU27,Historical,EV sales,Vans,BEV,2013,Vehicles,6600
+EU27,Historical,EV stock,Vans,PHEV,2013,Vehicles,370
+EU27,Historical,EV stock,Vans,PHEV,2014,Vehicles,450
+EU27,Historical,EV sales,Vans,BEV,2014,Vehicles,6900
+EU27,Historical,EV sales,Vans,FCEV,2014,Vehicles,4
+EU27,Historical,EV stock,Vans,BEV,2014,Vehicles,25000
+EU27,Historical,EV stock,Vans,FCEV,2014,Vehicles,4
+EU27,Historical,EV sales,Vans,PHEV,2014,Vehicles,2
+EU27,Historical,EV sales share,Vans,EV,2014,percent,0.5899999737739563
+EU27,Historical,EV stock share,Vans,EV,2014,percent,0.0989999994635582
+EU27,Historical,EV stock share,Vans,EV,2015,percent,0.12999999523162842
+EU27,Historical,EV sales share,Vans,EV,2015,percent,0.6499999761581421
+EU27,Historical,EV sales,Vans,PHEV,2015,Vehicles,110
+EU27,Historical,EV stock,Vans,FCEV,2015,Vehicles,61
+EU27,Historical,EV stock,Vans,BEV,2015,Vehicles,34000
+EU27,Historical,EV sales,Vans,FCEV,2015,Vehicles,53
+EU27,Historical,EV sales,Vans,BEV,2015,Vehicles,8000
+EU27,Historical,EV stock,Vans,PHEV,2015,Vehicles,740
+EU27,Historical,EV stock,Vans,PHEV,2016,Vehicles,1200
+EU27,Historical,EV sales,Vans,BEV,2016,Vehicles,10000
+EU27,Historical,EV sales,Vans,FCEV,2016,Vehicles,99
+EU27,Historical,EV stock,Vans,BEV,2016,Vehicles,45000
+EU27,Historical,EV stock,Vans,FCEV,2016,Vehicles,160
+EU27,Historical,EV sales,Vans,PHEV,2016,Vehicles,81
+EU27,Historical,EV sales share,Vans,EV,2016,percent,0.75
+EU27,Historical,EV stock share,Vans,EV,2016,percent,0.18000000715255737
+EU27,Historical,EV stock share,Vans,EV,2017,percent,0.23000000417232513
+EU27,Historical,EV sales share,Vans,EV,2017,percent,0.9399999976158142
+EU27,Historical,EV sales,Vans,PHEV,2017,Vehicles,27
+EU27,Historical,EV stock,Vans,FCEV,2017,Vehicles,180
+EU27,Historical,EV stock,Vans,BEV,2017,Vehicles,59000
+EU27,Historical,EV sales,Vans,FCEV,2017,Vehicles,26
+EU27,Historical,EV sales,Vans,BEV,2017,Vehicles,14000
+EU27,Historical,EV stock,Vans,PHEV,2017,Vehicles,1800
+EU27,Historical,EV stock,Vans,PHEV,2018,Vehicles,2700
+EU27,Historical,EV sales,Vans,BEV,2018,Vehicles,20000
+EU27,Historical,EV sales,Vans,FCEV,2018,Vehicles,94
+EU27,Historical,EV stock,Vans,BEV,2018,Vehicles,78000
+EU27,Historical,EV stock,Vans,FCEV,2018,Vehicles,280
+EU27,Historical,EV sales,Vans,PHEV,2018,Vehicles,42
+EU27,Historical,EV sales share,Vans,EV,2018,percent,1.2999999523162842
+EU27,Historical,EV stock share,Vans,EV,2018,percent,0.3100000023841858
+EU27,Historical,EV stock share,Vans,EV,2019,percent,0.38999998569488525
+EU27,Historical,EV sales share,Vans,EV,2019,percent,1.5
+EU27,Historical,EV sales,Vans,PHEV,2019,Vehicles,41
+EU27,Historical,EV stock,Vans,FCEV,2019,Vehicles,280
+EU27,Historical,EV stock,Vans,BEV,2019,Vehicles,99000
+EU27,Historical,EV sales,Vans,BEV,2019,Vehicles,23000
+EU27,Historical,EV stock,Vans,PHEV,2019,Vehicles,4600
+EU27,Historical,EV stock,Vans,PHEV,2020,Vehicles,6100
+EU27,Historical,EV sales,Vans,BEV,2020,Vehicles,29000
+EU27,Historical,EV stock,Vans,BEV,2020,Vehicles,120000
+EU27,Historical,EV stock,Vans,FCEV,2020,Vehicles,300
+EU27,Historical,EV sales,Vans,PHEV,2020,Vehicles,530
+EU27,Historical,EV sales share,Vans,EV,2020,percent,2.200000047683716
+EU27,Historical,EV stock share,Vans,EV,2020,percent,0.47999998927116394
+EU27,Historical,EV stock share,Vans,EV,2021,percent,0.6299999952316284
+EU27,Historical,EV sales share,Vans,EV,2021,percent,3
+EU27,Historical,EV sales,Vans,PHEV,2021,Vehicles,2100
+EU27,Historical,EV stock,Vans,FCEV,2021,Vehicles,320
+EU27,Historical,EV stock,Vans,BEV,2021,Vehicles,170000
+EU27,Historical,EV sales,Vans,FCEV,2021,Vehicles,27
+EU27,Historical,EV sales,Vans,BEV,2021,Vehicles,45000
+EU27,Historical,EV stock,Vans,PHEV,2021,Vehicles,4100
+EU27,Historical,EV stock,Vans,PHEV,2022,Vehicles,5600
+EU27,Historical,EV sales,Vans,BEV,2022,Vehicles,64000
+EU27,Historical,EV stock,Vans,BEV,2022,Vehicles,210000
+EU27,Historical,EV stock,Vans,FCEV,2022,Vehicles,300
+EU27,Historical,EV sales,Vans,PHEV,2022,Vehicles,2600
+EU27,Historical,EV sales share,Vans,EV,2022,percent,5.099999904632568
+EU27,Historical,EV stock share,Vans,EV,2022,percent,0.800000011920929
+EU27,Historical,EV stock share,Vans,EV,2023,percent,1.2000000476837158
+EU27,Historical,EV sales share,Vans,EV,2023,percent,7.599999904632568
+EU27,Historical,EV sales,Vans,PHEV,2023,Vehicles,2200
+EU27,Historical,EV stock,Vans,FCEV,2023,Vehicles,370
+EU27,Historical,EV stock,Vans,BEV,2023,Vehicles,310000
+EU27,Historical,EV sales,Vans,FCEV,2023,Vehicles,58
+EU27,Historical,EV sales,Vans,BEV,2023,Vehicles,110000
+EU27,Historical,EV stock,Vans,PHEV,2023,Vehicles,8400
+Europe,Historical,EV sales,Vans,BEV,2010,Vehicles,1500
+Europe,Historical,EV stock,Vans,BEV,2010,Vehicles,6700
+Europe,Historical,EV sales,Vans,FCEV,2010,Vehicles,2
+Europe,Historical,EV sales share,Vans,EV,2010,percent,0.08500000089406967
+Europe,Historical,EV stock share,Vans,EV,2010,percent,0.023000000044703484
+Europe,Historical,Oil displacement Mbd,Vans,EV,2010,Milion barrels per day,0.00015999999595806003
+Europe,Historical,"Oil displacement, million lge",Vans,EV,2010,"Oil displacement, million lge",9.399999618530273
+Europe,Historical,Electricity demand,Vans,EV,2010,GWh,81
+Europe,Historical,EV stock,Vans,FCEV,2010,Vehicles,6
+Europe,Historical,EV stock,Vans,PHEV,2010,Vehicles,210
+Europe,Historical,EV stock,Vans,PHEV,2011,Vehicles,260
+Europe,Historical,EV stock,Vans,FCEV,2011,Vehicles,6
+Europe,Historical,Electricity demand,Vans,EV,2011,GWh,79
+Europe,Historical,Oil displacement Mbd,Vans,EV,2011,Milion barrels per day,0.00026000000070780516
+Europe,Historical,"Oil displacement, million lge",Vans,EV,2011,"Oil displacement, million lge",15
+Europe,Historical,EV stock share,Vans,EV,2011,percent,0.02800000086426735
+Europe,Historical,EV sales share,Vans,EV,2011,percent,0.12999999523162842
+Europe,Historical,EV stock,Vans,BEV,2011,Vehicles,8700
+Europe,Historical,EV sales,Vans,BEV,2011,Vehicles,2500
+Europe,Historical,EV sales,Vans,BEV,2012,Vehicles,7100
+Europe,Historical,EV stock,Vans,BEV,2012,Vehicles,15000
+Europe,Historical,EV sales share,Vans,EV,2012,percent,0.4300000071525574
+Europe,Historical,EV stock share,Vans,EV,2012,percent,0.04899999871850014
+Europe,Historical,Oil displacement Mbd,Vans,EV,2012,Milion barrels per day,0.000590000010561198
+Europe,Historical,"Oil displacement, million lge",Vans,EV,2012,"Oil displacement, million lge",34
+Europe,Historical,Electricity demand,Vans,EV,2012,GWh,150
+Europe,Historical,EV stock,Vans,FCEV,2012,Vehicles,7
+Europe,Historical,EV sales,Vans,PHEV,2012,Vehicles,11
+Europe,Historical,EV stock,Vans,PHEV,2012,Vehicles,310
+Europe,Historical,EV stock,Vans,PHEV,2013,Vehicles,370
+Europe,Historical,EV sales,Vans,PHEV,2013,Vehicles,5
+Europe,Historical,EV stock,Vans,FCEV,2013,Vehicles,7
+Europe,Historical,Electricity demand,Vans,EV,2013,GWh,170
+Europe,Historical,Oil displacement Mbd,Vans,EV,2013,Milion barrels per day,0.0008999999845400453
+Europe,Historical,"Oil displacement, million lge",Vans,EV,2013,"Oil displacement, million lge",52
+Europe,Historical,EV stock share,Vans,EV,2013,percent,0.0689999982714653
+Europe,Historical,EV sales share,Vans,EV,2013,percent,0.44999998807907104
+Europe,Historical,EV stock,Vans,BEV,2013,Vehicles,22000
+Europe,Historical,EV sales,Vans,FCEV,2013,Vehicles,1
+Europe,Historical,EV sales,Vans,BEV,2013,Vehicles,7300
+Europe,Historical,EV sales,Vans,BEV,2014,Vehicles,8400
+Europe,Historical,EV sales,Vans,FCEV,2014,Vehicles,4
+Europe,Historical,EV stock,Vans,BEV,2014,Vehicles,30000
+Europe,Historical,EV sales share,Vans,EV,2014,percent,0.47999998927116394
+Europe,Historical,EV stock share,Vans,EV,2014,percent,0.09099999815225601
+Europe,Historical,Oil displacement Mbd,Vans,EV,2014,Milion barrels per day,0.0013000000035390258
+Europe,Historical,"Oil displacement, million lge",Vans,EV,2014,"Oil displacement, million lge",74
+Europe,Historical,EV stock,Vans,FCEV,2014,Vehicles,8
+Europe,Historical,EV sales,Vans,PHEV,2014,Vehicles,6
+Europe,Historical,EV stock,Vans,PHEV,2014,Vehicles,450
+Europe,Historical,Electricity demand,Vans,EV,2014,GWh,190
+Europe,Historical,Electricity demand,Vans,EV,2015,GWh,220
+Europe,Historical,EV stock,Vans,PHEV,2015,Vehicles,840
+Europe,Historical,EV sales,Vans,PHEV,2015,Vehicles,200
+Europe,Historical,EV stock,Vans,FCEV,2015,Vehicles,65
+Europe,Historical,Oil displacement Mbd,Vans,EV,2015,Milion barrels per day,0.0017000000225380063
+Europe,Historical,"Oil displacement, million lge",Vans,EV,2015,"Oil displacement, million lge",98
+Europe,Historical,EV stock share,Vans,EV,2015,percent,0.11999999731779099
+Europe,Historical,EV sales share,Vans,EV,2015,percent,0.5199999809265137
+Europe,Historical,EV stock,Vans,BEV,2015,Vehicles,40000
+Europe,Historical,EV sales,Vans,FCEV,2015,Vehicles,53
+Europe,Historical,EV sales,Vans,BEV,2015,Vehicles,9800
+Europe,Historical,EV sales,Vans,BEV,2016,Vehicles,12000
+Europe,Historical,EV sales,Vans,FCEV,2016,Vehicles,99
+Europe,Historical,EV stock,Vans,BEV,2016,Vehicles,53000
+Europe,Historical,EV sales share,Vans,EV,2016,percent,0.5899999737739563
+Europe,Historical,EV stock share,Vans,EV,2016,percent,0.1599999964237213
+Europe,Historical,Oil displacement Mbd,Vans,EV,2016,Milion barrels per day,0.002199999988079071
+Europe,Historical,"Oil displacement, million lge",Vans,EV,2016,"Oil displacement, million lge",130
+Europe,Historical,EV stock,Vans,FCEV,2016,Vehicles,160
+Europe,Historical,EV sales,Vans,PHEV,2016,Vehicles,160
+Europe,Historical,EV stock,Vans,PHEV,2016,Vehicles,1400
+Europe,Historical,Electricity demand,Vans,EV,2016,GWh,250
+Europe,Historical,Electricity demand,Vans,EV,2017,GWh,300
+Europe,Historical,EV stock,Vans,PHEV,2017,Vehicles,2000
+Europe,Historical,EV sales,Vans,PHEV,2017,Vehicles,120
+Europe,Historical,EV stock,Vans,FCEV,2017,Vehicles,190
+Europe,Historical,Oil displacement Mbd,Vans,EV,2017,Milion barrels per day,0.00279999990016222
+Europe,Historical,"Oil displacement, million lge",Vans,EV,2017,"Oil displacement, million lge",160
+Europe,Historical,EV stock share,Vans,EV,2017,percent,0.20000000298023224
+Europe,Historical,EV sales share,Vans,EV,2017,percent,0.7400000095367432
+Europe,Historical,EV stock,Vans,BEV,2017,Vehicles,69000
+Europe,Historical,EV sales,Vans,FCEV,2017,Vehicles,26
+Europe,Historical,EV sales,Vans,BEV,2017,Vehicles,16000
+Europe,Historical,EV sales,Vans,BEV,2018,Vehicles,24000
+Europe,Historical,EV sales,Vans,FCEV,2018,Vehicles,94
+Europe,Historical,EV stock,Vans,BEV,2018,Vehicles,92000
+Europe,Historical,EV sales share,Vans,EV,2018,percent,1.100000023841858
+Europe,Historical,EV stock share,Vans,EV,2018,percent,0.27000001072883606
+Europe,Historical,Oil displacement Mbd,Vans,EV,2018,Milion barrels per day,0.003700000001117587
+Europe,Historical,"Oil displacement, million lge",Vans,EV,2018,"Oil displacement, million lge",210
+Europe,Historical,EV stock,Vans,FCEV,2018,Vehicles,280
+Europe,Historical,EV sales,Vans,PHEV,2018,Vehicles,190
+Europe,Historical,EV stock,Vans,PHEV,2018,Vehicles,3100
+Europe,Historical,Electricity demand,Vans,EV,2018,GWh,390
+Europe,Historical,Electricity demand,Vans,EV,2019,GWh,540
+Europe,Historical,EV stock,Vans,PHEV,2019,Vehicles,5200
+Europe,Historical,EV sales,Vans,PHEV,2019,Vehicles,260
+Europe,Historical,EV stock,Vans,FCEV,2019,Vehicles,280
+Europe,Historical,Oil displacement Mbd,Vans,EV,2019,Milion barrels per day,0.004800000227987766
+Europe,Historical,"Oil displacement, million lge",Vans,EV,2019,"Oil displacement, million lge",280
+Europe,Historical,EV stock share,Vans,EV,2019,percent,0.3499999940395355
+Europe,Historical,EV sales share,Vans,EV,2019,percent,1.2999999523162842
+Europe,Historical,EV stock,Vans,BEV,2019,Vehicles,120000
+Europe,Historical,EV sales,Vans,BEV,2019,Vehicles,29000
+Europe,Historical,EV sales,Vans,BEV,2020,Vehicles,38000
+Europe,Historical,EV stock,Vans,BEV,2020,Vehicles,150000
+Europe,Historical,EV sales share,Vans,EV,2020,percent,2.0999999046325684
+Europe,Historical,EV stock share,Vans,EV,2020,percent,0.4300000071525574
+Europe,Historical,Oil displacement Mbd,Vans,EV,2020,Milion barrels per day,0.005400000140070915
+Europe,Historical,"Oil displacement, million lge",Vans,EV,2020,"Oil displacement, million lge",310
+Europe,Historical,EV stock,Vans,FCEV,2020,Vehicles,300
+Europe,Historical,EV sales,Vans,PHEV,2020,Vehicles,1100
+Europe,Historical,EV stock,Vans,PHEV,2020,Vehicles,7300
+Europe,Historical,Electricity demand,Vans,EV,2020,GWh,700
+Europe,Historical,Electricity demand,Vans,EV,2021,GWh,1100
+Europe,Historical,EV stock,Vans,PHEV,2021,Vehicles,6900
+Europe,Historical,EV sales,Vans,PHEV,2021,Vehicles,3500
+Europe,Historical,EV stock,Vans,FCEV,2021,Vehicles,330
+Europe,Historical,Oil displacement Mbd,Vans,EV,2021,Milion barrels per day,0.00839999970048666
+Europe,Historical,"Oil displacement, million lge",Vans,EV,2021,"Oil displacement, million lge",490
+Europe,Historical,EV stock share,Vans,EV,2021,percent,0.5799999833106995
+Europe,Historical,EV sales share,Vans,EV,2021,percent,2.9000000953674316
+Europe,Historical,EV stock,Vans,BEV,2021,Vehicles,210000
+Europe,Historical,EV sales,Vans,FCEV,2021,Vehicles,27
+Europe,Historical,EV sales,Vans,BEV,2021,Vehicles,60000
+Europe,Historical,EV sales,Vans,BEV,2022,Vehicles,90000
+Europe,Historical,EV stock,Vans,BEV,2022,Vehicles,280000
+Europe,Historical,EV sales share,Vans,EV,2022,percent,5.199999809265137
+Europe,Historical,EV stock share,Vans,EV,2022,percent,0.7699999809265137
+Europe,Historical,Oil displacement Mbd,Vans,EV,2022,Milion barrels per day,0.012000000104308128
+Europe,Historical,"Oil displacement, million lge",Vans,EV,2022,"Oil displacement, million lge",720
+Europe,Historical,EV stock,Vans,FCEV,2022,Vehicles,320
+Europe,Historical,EV sales,Vans,PHEV,2022,Vehicles,3300
+Europe,Historical,EV stock,Vans,PHEV,2022,Vehicles,9000
+Europe,Historical,Electricity demand,Vans,EV,2022,GWh,1600
+Europe,Historical,Electricity demand,Vans,EV,2023,GWh,4100
+Europe,Historical,EV stock,Vans,PHEV,2023,Vehicles,12000
+Europe,Historical,EV sales,Vans,PHEV,2023,Vehicles,2400
+Europe,Historical,EV stock,Vans,FCEV,2023,Vehicles,380
+Europe,Historical,Oil displacement Mbd,Vans,EV,2023,Milion barrels per day,0.020999999716877937
+Europe,Historical,"Oil displacement, million lge",Vans,EV,2023,"Oil displacement, million lge",1200
+Europe,Historical,EV stock share,Vans,EV,2023,percent,1.100000023841858
+Europe,Historical,EV sales share,Vans,EV,2023,percent,7.199999809265137
+Europe,Historical,EV stock,Vans,BEV,2023,Vehicles,420000
+Europe,Historical,EV sales,Vans,FCEV,2023,Vehicles,58
+Europe,Historical,EV sales,Vans,BEV,2023,Vehicles,150000
+Finland,Historical,EV stock share,Vans,EV,2017,percent,0.06700000166893005
+Finland,Historical,EV sales share,Vans,EV,2017,percent,0.3199999928474426
+Finland,Historical,EV sales,Vans,BEV,2017,Vehicles,49
+Finland,Historical,EV stock,Vans,BEV,2017,Vehicles,210
+Finland,Historical,EV stock,Vans,BEV,2018,Vehicles,260
+Finland,Historical,EV sales,Vans,BEV,2018,Vehicles,55
+Finland,Historical,EV sales share,Vans,EV,2018,percent,0.3499999940395355
+Finland,Historical,EV stock share,Vans,EV,2018,percent,0.08100000023841858
+Finland,Historical,EV stock share,Vans,EV,2019,percent,0.10999999940395355
+Finland,Historical,EV sales share,Vans,EV,2019,percent,0.4099999964237213
+Finland,Historical,EV sales,Vans,BEV,2019,Vehicles,60
+Finland,Historical,EV stock,Vans,BEV,2019,Vehicles,310
+Finland,Historical,EV stock,Vans,PHEV,2019,Vehicles,39
+Finland,Historical,EV stock,Vans,PHEV,2020,Vehicles,110
+Finland,Historical,EV sales,Vans,PHEV,2020,Vehicles,39
+Finland,Historical,EV stock,Vans,BEV,2020,Vehicles,440
+Finland,Historical,EV sales,Vans,BEV,2020,Vehicles,170
+Finland,Historical,EV sales share,Vans,EV,2020,percent,1.600000023841858
+Finland,Historical,EV stock share,Vans,EV,2020,percent,0.17000000178813934
+Finland,Historical,EV stock share,Vans,EV,2021,percent,0.30000001192092896
+Finland,Historical,EV sales share,Vans,EV,2021,percent,2.799999952316284
+Finland,Historical,EV sales,Vans,BEV,2021,Vehicles,340
+Finland,Historical,EV stock,Vans,BEV,2021,Vehicles,800
+Finland,Historical,EV sales,Vans,PHEV,2021,Vehicles,38
+Finland,Historical,EV stock,Vans,PHEV,2021,Vehicles,180
+Finland,Historical,EV stock,Vans,PHEV,2022,Vehicles,260
+Finland,Historical,EV sales,Vans,PHEV,2022,Vehicles,27
+Finland,Historical,EV stock,Vans,BEV,2022,Vehicles,1600
+Finland,Historical,EV sales,Vans,BEV,2022,Vehicles,680
+Finland,Historical,EV sales share,Vans,EV,2022,percent,6.400000095367432
+Finland,Historical,EV stock share,Vans,EV,2022,percent,0.5699999928474426
+Finland,Historical,EV stock share,Vans,EV,2023,percent,1.100000023841858
+Finland,Historical,EV sales share,Vans,EV,2023,percent,15
+Finland,Historical,EV sales,Vans,BEV,2023,Vehicles,1600
+Finland,Historical,EV stock,Vans,BEV,2023,Vehicles,3200
+Finland,Historical,EV sales,Vans,PHEV,2023,Vehicles,14
+Finland,Historical,EV stock,Vans,PHEV,2023,Vehicles,290
+France,Historical,EV stock,Vans,PHEV,2010,Vehicles,210
+France,Historical,EV sales,Vans,BEV,2010,Vehicles,800
+France,Historical,EV stock,Vans,BEV,2010,Vehicles,1500
+France,Historical,EV stock share,Vans,EV,2010,percent,0.035999998450279236
+France,Historical,EV sales share,Vans,EV,2010,percent,0.1899999976158142
+France,Historical,EV sales share,Vans,EV,2011,percent,0.38999998569488525
+France,Historical,EV stock share,Vans,EV,2011,percent,0.05900000035762787
+France,Historical,EV stock,Vans,BEV,2011,Vehicles,3200
+France,Historical,EV sales,Vans,BEV,2011,Vehicles,1700
+France,Historical,EV stock,Vans,PHEV,2011,Vehicles,260
+France,Historical,EV stock,Vans,PHEV,2012,Vehicles,300
+France,Historical,EV sales,Vans,BEV,2012,Vehicles,3600
+France,Historical,EV stock,Vans,BEV,2012,Vehicles,6800
+France,Historical,EV stock,Vans,FCEV,2012,Vehicles,1
+France,Historical,EV stock share,Vans,EV,2012,percent,0.11999999731779099
+France,Historical,EV sales share,Vans,EV,2012,percent,0.9599999785423279
+France,Historical,EV sales share,Vans,EV,2013,percent,1.5
+France,Historical,EV stock share,Vans,EV,2013,percent,0.20999999344348907
+France,Historical,EV stock,Vans,FCEV,2013,Vehicles,1
+France,Historical,EV stock,Vans,BEV,2013,Vehicles,12000
+France,Historical,EV sales,Vans,FCEV,2013,Vehicles,1
+France,Historical,EV sales,Vans,BEV,2013,Vehicles,5100
+France,Historical,EV stock,Vans,PHEV,2013,Vehicles,360
+France,Historical,EV stock,Vans,PHEV,2014,Vehicles,430
+France,Historical,EV sales,Vans,BEV,2014,Vehicles,4500
+France,Historical,EV sales,Vans,FCEV,2014,Vehicles,4
+France,Historical,EV stock,Vans,BEV,2014,Vehicles,16000
+France,Historical,EV stock,Vans,FCEV,2014,Vehicles,2
+France,Historical,EV stock share,Vans,EV,2014,percent,0.2800000011920929
+France,Historical,EV sales share,Vans,EV,2014,percent,1.2999999523162842
+France,Historical,EV sales share,Vans,EV,2015,percent,1.600000023841858
+France,Historical,EV stock share,Vans,EV,2015,percent,0.3700000047683716
+France,Historical,EV stock,Vans,FCEV,2015,Vehicles,55
+France,Historical,EV stock,Vans,BEV,2015,Vehicles,21000
+France,Historical,EV sales,Vans,FCEV,2015,Vehicles,53
+France,Historical,EV sales,Vans,BEV,2015,Vehicles,4900
+France,Historical,EV stock,Vans,PHEV,2015,Vehicles,630
+France,Historical,EV sales,Vans,PHEV,2015,Vehicles,10
+France,Historical,EV stock,Vans,PHEV,2016,Vehicles,1000
+France,Historical,EV sales,Vans,BEV,2016,Vehicles,5500
+France,Historical,EV sales,Vans,FCEV,2016,Vehicles,99
+France,Historical,EV stock,Vans,BEV,2016,Vehicles,27000
+France,Historical,EV stock,Vans,FCEV,2016,Vehicles,150
+France,Historical,EV stock share,Vans,EV,2016,percent,0.46000000834465027
+France,Historical,EV sales share,Vans,EV,2016,percent,1.899999976158142
+France,Historical,EV sales share,Vans,EV,2017,percent,1.899999976158142
+France,Historical,EV stock share,Vans,EV,2017,percent,0.5600000023841858
+France,Historical,EV stock,Vans,FCEV,2017,Vehicles,180
+France,Historical,EV stock,Vans,BEV,2017,Vehicles,33000
+France,Historical,EV sales,Vans,FCEV,2017,Vehicles,25
+France,Historical,EV sales,Vans,BEV,2017,Vehicles,6000
+France,Historical,EV stock,Vans,PHEV,2017,Vehicles,1600
+France,Historical,EV stock,Vans,PHEV,2018,Vehicles,2500
+France,Historical,EV sales,Vans,BEV,2018,Vehicles,8200
+France,Historical,EV sales,Vans,FCEV,2018,Vehicles,92
+France,Historical,EV stock,Vans,BEV,2018,Vehicles,41000
+France,Historical,EV stock,Vans,FCEV,2018,Vehicles,270
+France,Historical,EV stock share,Vans,EV,2018,percent,0.699999988079071
+France,Historical,EV sales share,Vans,EV,2018,percent,2.4000000953674316
+France,Historical,EV sales share,Vans,EV,2019,percent,2.299999952316284
+France,Historical,EV stock share,Vans,EV,2019,percent,0.8899999856948853
+France,Historical,EV stock,Vans,FCEV,2019,Vehicles,270
+France,Historical,EV stock,Vans,BEV,2019,Vehicles,49000
+France,Historical,EV sales,Vans,BEV,2019,Vehicles,8100
+France,Historical,EV stock,Vans,PHEV,2019,Vehicles,4200
+France,Historical,EV sales,Vans,PHEV,2019,Vehicles,4
+France,Historical,EV stock,Vans,PHEV,2020,Vehicles,4200
+France,Historical,EV sales,Vans,BEV,2020,Vehicles,9200
+France,Historical,EV stock,Vans,BEV,2020,Vehicles,58000
+France,Historical,EV stock,Vans,FCEV,2020,Vehicles,270
+France,Historical,EV stock share,Vans,EV,2020,percent,1
+France,Historical,EV sales share,Vans,EV,2020,percent,3
+France,Historical,EV sales share,Vans,EV,2021,percent,3
+France,Historical,EV stock share,Vans,EV,2021,percent,1.100000023841858
+France,Historical,EV stock,Vans,FCEV,2021,Vehicles,290
+France,Historical,EV stock,Vans,BEV,2021,Vehicles,69000
+France,Historical,EV sales,Vans,FCEV,2021,Vehicles,20
+France,Historical,EV sales,Vans,BEV,2021,Vehicles,12000
+France,Historical,EV stock,Vans,PHEV,2021,Vehicles,1500
+France,Historical,EV sales,Vans,PHEV,2021,Vehicles,800
+France,Historical,EV sales,Vans,PHEV,2022,Vehicles,520
+France,Historical,EV stock,Vans,PHEV,2022,Vehicles,990
+France,Historical,EV sales,Vans,BEV,2022,Vehicles,16000
+France,Historical,EV stock,Vans,BEV,2022,Vehicles,74000
+France,Historical,EV stock share,Vans,EV,2022,percent,1.2000000476837158
+France,Historical,EV stock,Vans,FCEV,2022,Vehicles,270
+France,Historical,EV sales share,Vans,EV,2022,percent,4.900000095367432
+France,Historical,EV sales share,Vans,EV,2023,percent,7.599999904632568
+France,Historical,EV stock,Vans,FCEV,2023,Vehicles,290
+France,Historical,EV stock share,Vans,EV,2023,percent,1.2999999523162842
+France,Historical,EV stock,Vans,BEV,2023,Vehicles,81000
+France,Historical,EV sales,Vans,BEV,2023,Vehicles,30000
+France,Historical,EV stock,Vans,PHEV,2023,Vehicles,1600
+France,Historical,EV sales,Vans,PHEV,2023,Vehicles,220
+Germany,Historical,EV sales,Vans,BEV,2010,Vehicles,170
+Germany,Historical,EV stock,Vans,BEV,2010,Vehicles,220
+Germany,Historical,EV stock,Vans,FCEV,2010,Vehicles,2
+Germany,Historical,EV sales,Vans,FCEV,2010,Vehicles,2
+Germany,Historical,EV sales share,Vans,EV,2010,percent,0.08699999749660492
+Germany,Historical,EV stock share,Vans,EV,2010,percent,0.012000000104308128
+Germany,Historical,EV stock share,Vans,EV,2011,percent,0.024000000208616257
+Germany,Historical,EV sales share,Vans,EV,2011,percent,0.11999999731779099
+Germany,Historical,EV stock,Vans,FCEV,2011,Vehicles,2
+Germany,Historical,EV stock,Vans,BEV,2011,Vehicles,500
+Germany,Historical,EV sales,Vans,BEV,2011,Vehicles,280
+Germany,Historical,EV sales,Vans,BEV,2012,Vehicles,950
+Germany,Historical,EV stock,Vans,BEV,2012,Vehicles,1400
+Germany,Historical,EV stock,Vans,FCEV,2012,Vehicles,2
+Germany,Historical,EV sales share,Vans,EV,2012,percent,0.4300000071525574
+Germany,Historical,EV stock share,Vans,EV,2012,percent,0.06700000166893005
+Germany,Historical,EV stock share,Vans,EV,2013,percent,0.09300000220537186
+Germany,Historical,EV sales share,Vans,EV,2013,percent,0.28999999165534973
+Germany,Historical,EV stock,Vans,FCEV,2013,Vehicles,2
+Germany,Historical,EV stock,Vans,BEV,2013,Vehicles,2000
+Germany,Historical,EV sales,Vans,PHEV,2013,Vehicles,2
+Germany,Historical,EV stock,Vans,PHEV,2013,Vehicles,2
+Germany,Historical,EV sales,Vans,BEV,2013,Vehicles,600
+Germany,Historical,EV sales,Vans,BEV,2014,Vehicles,720
+Germany,Historical,EV stock,Vans,PHEV,2014,Vehicles,2
+Germany,Historical,EV stock,Vans,BEV,2014,Vehicles,2800
+Germany,Historical,EV stock,Vans,FCEV,2014,Vehicles,2
+Germany,Historical,EV sales share,Vans,EV,2014,percent,0.3199999928474426
+Germany,Historical,EV stock share,Vans,EV,2014,percent,0.11999999731779099
+Germany,Historical,EV stock share,Vans,EV,2015,percent,0.1599999964237213
+Germany,Historical,EV sales share,Vans,EV,2015,percent,0.4399999976158142
+Germany,Historical,EV stock,Vans,FCEV,2015,Vehicles,2
+Germany,Historical,EV stock,Vans,BEV,2015,Vehicles,3800
+Germany,Historical,EV stock,Vans,PHEV,2015,Vehicles,4
+Germany,Historical,EV sales,Vans,PHEV,2015,Vehicles,2
+Germany,Historical,EV sales,Vans,BEV,2015,Vehicles,1000
+Germany,Historical,EV sales,Vans,BEV,2016,Vehicles,2400
+Germany,Historical,EV stock,Vans,PHEV,2016,Vehicles,4
+Germany,Historical,EV stock,Vans,BEV,2016,Vehicles,6200
+Germany,Historical,EV sales share,Vans,EV,2016,percent,0.9700000286102295
+Germany,Historical,EV stock share,Vans,EV,2016,percent,0.25
+Germany,Historical,EV stock share,Vans,EV,2017,percent,0.4399999976158142
+Germany,Historical,EV sales share,Vans,EV,2017,percent,1.7000000476837158
+Germany,Historical,EV stock,Vans,BEV,2017,Vehicles,11000
+Germany,Historical,EV stock,Vans,PHEV,2017,Vehicles,4
+Germany,Historical,EV sales,Vans,BEV,2017,Vehicles,4500
+Germany,Historical,EV sales,Vans,BEV,2018,Vehicles,6000
+Germany,Historical,EV stock,Vans,PHEV,2018,Vehicles,4
+Germany,Historical,EV stock,Vans,BEV,2018,Vehicles,17000
+Germany,Historical,EV sales share,Vans,EV,2018,percent,2.200000047683716
+Germany,Historical,EV stock share,Vans,EV,2018,percent,0.6100000143051147
+Germany,Historical,EV stock share,Vans,EV,2019,percent,0.7699999809265137
+Germany,Historical,EV sales share,Vans,EV,2019,percent,2.299999952316284
+Germany,Historical,EV stock,Vans,PHEV,2019,Vehicles,4
+Germany,Historical,EV stock,Vans,BEV,2019,Vehicles,22000
+Germany,Historical,EV sales,Vans,BEV,2019,Vehicles,6700
+Germany,Historical,EV sales,Vans,BEV,2020,Vehicles,8800
+Germany,Historical,EV stock,Vans,BEV,2020,Vehicles,25000
+Germany,Historical,EV stock,Vans,FCEV,2020,Vehicles,16
+Germany,Historical,EV sales,Vans,PHEV,2020,Vehicles,180
+Germany,Historical,EV stock,Vans,PHEV,2020,Vehicles,190
+Germany,Historical,EV sales share,Vans,EV,2020,percent,3.5
+Germany,Historical,EV stock share,Vans,EV,2020,percent,0.8399999737739563
+Germany,Historical,EV stock share,Vans,EV,2021,percent,1.2999999523162842
+Germany,Historical,EV sales share,Vans,EV,2021,percent,5.099999904632568
+Germany,Historical,EV stock,Vans,PHEV,2021,Vehicles,500
+Germany,Historical,EV sales,Vans,PHEV,2021,Vehicles,310
+Germany,Historical,EV sales,Vans,FCEV,2021,Vehicles,5
+Germany,Historical,EV stock,Vans,FCEV,2021,Vehicles,16
+Germany,Historical,EV stock,Vans,BEV,2021,Vehicles,41000
+Germany,Historical,EV sales,Vans,BEV,2021,Vehicles,13000
+Germany,Historical,EV sales,Vans,BEV,2022,Vehicles,18000
+Germany,Historical,EV stock,Vans,BEV,2022,Vehicles,53000
+Germany,Historical,EV stock,Vans,FCEV,2022,Vehicles,16
+Germany,Historical,EV sales,Vans,PHEV,2022,Vehicles,770
+Germany,Historical,EV stock,Vans,PHEV,2022,Vehicles,770
+Germany,Historical,EV sales share,Vans,EV,2022,percent,8.300000190734863
+Germany,Historical,EV stock share,Vans,EV,2022,percent,1.7000000476837158
+Germany,Historical,EV stock share,Vans,EV,2023,percent,2.799999952316284
+Germany,Historical,EV sales share,Vans,EV,2023,percent,9.699999809265137
+Germany,Historical,EV stock,Vans,PHEV,2023,Vehicles,1600
+Germany,Historical,EV sales,Vans,PHEV,2023,Vehicles,360
+Germany,Historical,EV sales,Vans,FCEV,2023,Vehicles,48
+Germany,Historical,EV stock,Vans,FCEV,2023,Vehicles,55
+Germany,Historical,EV stock,Vans,BEV,2023,Vehicles,89000
+Germany,Historical,EV sales,Vans,BEV,2023,Vehicles,25000
+India,Historical,EV sales share,Vans,EV,2016,percent,0.0560000017285347
+India,Historical,EV stock share,Vans,EV,2016,percent,0.0031999999191612005
+India,Historical,EV sales,Vans,BEV,2016,Vehicles,180
+India,Historical,EV stock,Vans,BEV,2016,Vehicles,180
+India,Historical,Oil displacement Mbd,Vans,EV,2016,Milion barrels per day,0.00000889999955688836
+India,Historical,"Oil displacement, million lge",Vans,EV,2016,"Oil displacement, million lge",0.5099999904632568
+India,Historical,Oil displacement Mbd,Vans,EV,2017,Milion barrels per day,0.00007100000220816582
+India,Historical,"Oil displacement, million lge",Vans,EV,2017,"Oil displacement, million lge",4.099999904632568
+India,Historical,EV stock,Vans,BEV,2017,Vehicles,1400
+India,Historical,EV sales,Vans,BEV,2017,Vehicles,1200
+India,Historical,EV stock share,Vans,EV,2017,percent,0.024000000208616257
+India,Historical,EV sales share,Vans,EV,2017,percent,0.3100000023841858
+India,Historical,EV sales share,Vans,EV,2018,percent,0.28999999165534973
+India,Historical,EV stock share,Vans,EV,2018,percent,0.04600000008940697
+India,Historical,EV sales,Vans,BEV,2018,Vehicles,1500
+India,Historical,EV stock,Vans,BEV,2018,Vehicles,2900
+India,Historical,Oil displacement Mbd,Vans,EV,2018,Milion barrels per day,0.00014000000373926014
+India,Historical,"Oil displacement, million lge",Vans,EV,2018,"Oil displacement, million lge",7.900000095367432
+India,Historical,Oil displacement Mbd,Vans,EV,2019,Milion barrels per day,0.00015999999595806003
+India,Historical,"Oil displacement, million lge",Vans,EV,2019,"Oil displacement, million lge",9.100000381469727
+India,Historical,EV stock,Vans,BEV,2019,Vehicles,3700
+India,Historical,EV sales,Vans,BEV,2019,Vehicles,790
+India,Historical,EV stock share,Vans,EV,2019,percent,0.054999999701976776
+India,Historical,EV sales share,Vans,EV,2019,percent,0.1599999964237213
+India,Historical,EV sales share,Vans,EV,2020,percent,0.23000000417232513
+India,Historical,EV stock share,Vans,EV,2020,percent,0.06599999964237213
+India,Historical,EV sales,Vans,BEV,2020,Vehicles,1000
+India,Historical,EV stock,Vans,BEV,2020,Vehicles,4700
+India,Historical,Oil displacement Mbd,Vans,EV,2020,Milion barrels per day,0.00016999999934341758
+India,Historical,"Oil displacement, million lge",Vans,EV,2020,"Oil displacement, million lge",9.800000190734863
+India,Historical,Oil displacement Mbd,Vans,EV,2021,Milion barrels per day,0.00023999999393709004
+India,Historical,"Oil displacement, million lge",Vans,EV,2021,"Oil displacement, million lge",14
+India,Historical,EV stock,Vans,BEV,2021,Vehicles,6400
+India,Historical,EV sales,Vans,BEV,2021,Vehicles,1700
+India,Historical,EV stock share,Vans,EV,2021,percent,0.0860000029206276
+India,Historical,EV sales share,Vans,EV,2021,percent,0.41999998688697815
+India,Historical,EV sales share,Vans,EV,2022,percent,0.09799999743700027
+India,Historical,EV stock share,Vans,EV,2022,percent,0.08799999952316284
+India,Historical,EV sales,Vans,BEV,2022,Vehicles,510
+India,Historical,EV stock,Vans,BEV,2022,Vehicles,6900
+India,Historical,Oil displacement Mbd,Vans,EV,2022,Milion barrels per day,0.00026000000070780516
+India,Historical,"Oil displacement, million lge",Vans,EV,2022,"Oil displacement, million lge",15
+India,Historical,Oil displacement Mbd,Vans,EV,2023,Milion barrels per day,0.0002300000051036477
+India,Historical,"Oil displacement, million lge",Vans,EV,2023,"Oil displacement, million lge",13
+India,Historical,EV stock,Vans,BEV,2023,Vehicles,7300
+India,Historical,EV sales,Vans,BEV,2023,Vehicles,350
+India,Historical,EV stock share,Vans,EV,2023,percent,0.08699999749660492
+India,Historical,EV sales share,Vans,EV,2023,percent,0.06199999898672104
+India,Historical,Electricity demand,Vans,EV,2023,GWh,41
+Israel,Historical,EV sales share,Vans,EV,2020,percent,0.36000001430511475
+Israel,Historical,EV stock share,Vans,EV,2020,percent,0.0010999999940395355
+Israel,Historical,EV sales,Vans,BEV,2020,Vehicles,45
+Israel,Historical,EV stock,Vans,BEV,2020,Vehicles,2
+Israel,Historical,EV stock,Vans,BEV,2021,Vehicles,26
+Israel,Historical,EV sales,Vans,BEV,2021,Vehicles,76
+Israel,Historical,EV sales,Vans,PHEV,2021,Vehicles,2
+Israel,Historical,EV stock share,Vans,EV,2021,percent,0.014000000432133675
+Israel,Historical,EV sales share,Vans,EV,2021,percent,0.49000000953674316
+Israel,Historical,EV sales share,Vans,EV,2022,percent,0.6899999976158142
+Israel,Historical,EV stock share,Vans,EV,2022,percent,0.06199999898672104
+Israel,Historical,EV sales,Vans,PHEV,2022,Vehicles,18
+Israel,Historical,EV sales,Vans,BEV,2022,Vehicles,87
+Israel,Historical,EV stock,Vans,BEV,2022,Vehicles,120
+Israel,Historical,EV stock,Vans,BEV,2023,Vehicles,300
+Israel,Historical,EV sales,Vans,BEV,2023,Vehicles,90
+Israel,Historical,EV stock,Vans,PHEV,2023,Vehicles,20
+Israel,Historical,EV stock share,Vans,EV,2023,percent,0.17000000178813934
+Israel,Historical,EV sales share,Vans,EV,2023,percent,0.6000000238418579
+Italy,Historical,EV stock,Vans,BEV,2010,Vehicles,820
+Italy,Historical,EV sales,Vans,BEV,2010,Vehicles,210
+Italy,Historical,EV sales share,Vans,EV,2010,percent,0.11999999731779099
+Italy,Historical,EV stock share,Vans,EV,2010,percent,0.02199999988079071
+Italy,Historical,EV stock share,Vans,EV,2011,percent,0.023000000044703484
+Italy,Historical,EV sales share,Vans,EV,2011,percent,0.04899999871850014
+Italy,Historical,EV sales,Vans,BEV,2011,Vehicles,84
+Italy,Historical,EV stock,Vans,BEV,2011,Vehicles,910
+Italy,Historical,EV stock,Vans,BEV,2012,Vehicles,1300
+Italy,Historical,EV sales,Vans,PHEV,2012,Vehicles,3
+Italy,Historical,EV sales,Vans,BEV,2012,Vehicles,360
+Italy,Historical,EV sales share,Vans,EV,2012,percent,0.3100000023841858
+Italy,Historical,EV stock share,Vans,EV,2012,percent,0.03400000184774399
+Italy,Historical,EV stock share,Vans,EV,2013,percent,0.03700000047683716
+Italy,Historical,EV sales share,Vans,EV,2013,percent,0.20000000298023224
+Italy,Historical,EV sales,Vans,BEV,2013,Vehicles,180
+Italy,Historical,EV sales,Vans,PHEV,2013,Vehicles,1
+Italy,Historical,EV stock,Vans,BEV,2013,Vehicles,1400
+Italy,Historical,EV stock,Vans,BEV,2014,Vehicles,1700
+Italy,Historical,EV sales,Vans,BEV,2014,Vehicles,270
+Italy,Historical,EV sales share,Vans,EV,2014,percent,0.25
+Italy,Historical,EV stock share,Vans,EV,2014,percent,0.0430000014603138
+Italy,Historical,EV stock share,Vans,EV,2015,percent,0.05299999937415123
+Italy,Historical,EV sales share,Vans,EV,2015,percent,0.3499999940395355
+Italy,Historical,EV sales,Vans,BEV,2015,Vehicles,420
+Italy,Historical,EV stock,Vans,BEV,2015,Vehicles,2100
+Italy,Historical,EV stock,Vans,BEV,2016,Vehicles,2900
+Italy,Historical,EV sales,Vans,BEV,2016,Vehicles,780
+Italy,Historical,EV sales share,Vans,EV,2016,percent,0.4300000071525574
+Italy,Historical,EV stock share,Vans,EV,2016,percent,0.07100000232458115
+Italy,Historical,EV stock share,Vans,EV,2017,percent,0.07599999755620956
+Italy,Historical,EV sales share,Vans,EV,2017,percent,0.2800000011920929
+Italy,Historical,EV sales,Vans,BEV,2017,Vehicles,500
+Italy,Historical,EV stock,Vans,BEV,2017,Vehicles,3200
+Italy,Historical,EV sales,Vans,PHEV,2017,Vehicles,2
+Italy,Historical,EV stock,Vans,BEV,2018,Vehicles,3900
+Italy,Historical,EV sales,Vans,BEV,2018,Vehicles,640
+Italy,Historical,EV sales share,Vans,EV,2018,percent,0.38999998569488525
+Italy,Historical,EV stock share,Vans,EV,2018,percent,0.09399999678134918
+Italy,Historical,EV stock share,Vans,EV,2019,percent,0.11999999731779099
+Italy,Historical,EV sales share,Vans,EV,2019,percent,0.6100000143051147
+Italy,Historical,EV sales,Vans,BEV,2019,Vehicles,1000
+Italy,Historical,EV stock,Vans,BEV,2019,Vehicles,4900
+Italy,Historical,EV stock,Vans,PHEV,2019,Vehicles,43
+Italy,Historical,EV stock,Vans,PHEV,2020,Vehicles,98
+Italy,Historical,EV stock,Vans,BEV,2020,Vehicles,6300
+Italy,Historical,EV sales,Vans,PHEV,2020,Vehicles,53
+Italy,Historical,EV sales,Vans,BEV,2020,Vehicles,1200
+Italy,Historical,EV sales share,Vans,EV,2020,percent,0.8799999952316284
+Italy,Historical,EV stock share,Vans,EV,2020,percent,0.15000000596046448
+Italy,Historical,EV stock share,Vans,EV,2021,percent,0.23000000417232513
+Italy,Historical,EV sales share,Vans,EV,2021,percent,1.899999976158142
+Italy,Historical,EV sales,Vans,BEV,2021,Vehicles,3100
+Italy,Historical,EV sales,Vans,PHEV,2021,Vehicles,380
+Italy,Historical,EV stock,Vans,BEV,2021,Vehicles,9400
+Italy,Historical,EV stock,Vans,PHEV,2021,Vehicles,490
+Italy,Historical,EV stock,Vans,PHEV,2022,Vehicles,1100
+Italy,Historical,EV stock,Vans,BEV,2022,Vehicles,13000
+Italy,Historical,EV sales,Vans,PHEV,2022,Vehicles,610
+Italy,Historical,EV sales,Vans,BEV,2022,Vehicles,4100
+Italy,Historical,EV sales share,Vans,EV,2022,percent,3
+Italy,Historical,EV stock share,Vans,EV,2022,percent,0.33000001311302185
+Italy,Historical,EV stock share,Vans,EV,2023,percent,0.550000011920929
+Italy,Historical,EV sales share,Vans,EV,2023,percent,4.199999809265137
+Italy,Historical,EV sales,Vans,BEV,2023,Vehicles,7200
+Italy,Historical,EV sales,Vans,PHEV,2023,Vehicles,1000
+Italy,Historical,EV stock,Vans,BEV,2023,Vehicles,21000
+Italy,Historical,EV stock,Vans,PHEV,2023,Vehicles,2100
+Japan,Historical,EV sales share,Vans,EV,2011,percent,0.15000000596046448
+Japan,Historical,EV stock share,Vans,EV,2011,percent,0.006099999882280827
+Japan,Historical,EV stock,Vans,BEV,2011,Vehicles,850
+Japan,Historical,EV sales,Vans,BEV,2011,Vehicles,850
+Japan,Historical,EV stock,Vans,BEV,2012,Vehicles,3300
+Japan,Historical,EV sales,Vans,BEV,2012,Vehicles,2500
+Japan,Historical,EV stock share,Vans,EV,2012,percent,0.024000000208616257
+Japan,Historical,EV sales share,Vans,EV,2012,percent,0.3799999952316284
+Japan,Historical,EV sales share,Vans,EV,2013,percent,0.3100000023841858
+Japan,Historical,EV stock share,Vans,EV,2013,percent,0.03999999910593033
+Japan,Historical,EV sales,Vans,BEV,2013,Vehicles,2100
+Japan,Historical,EV stock,Vans,BEV,2013,Vehicles,5400
+Japan,Historical,EV stock,Vans,BEV,2014,Vehicles,6400
+Japan,Historical,EV sales,Vans,BEV,2014,Vehicles,1000
+Japan,Historical,EV stock share,Vans,EV,2014,percent,0.04800000041723251
+Japan,Historical,EV sales share,Vans,EV,2014,percent,0.15000000596046448
+Japan,Historical,EV sales share,Vans,EV,2015,percent,0.12999999523162842
+Japan,Historical,EV stock share,Vans,EV,2015,percent,0.05400000140070915
+Japan,Historical,EV sales,Vans,BEV,2015,Vehicles,830
+Japan,Historical,EV stock,Vans,BEV,2015,Vehicles,7300
+Japan,Historical,EV stock,Vans,BEV,2016,Vehicles,7600
+Japan,Historical,EV sales,Vans,BEV,2016,Vehicles,320
+Japan,Historical,EV stock share,Vans,EV,2016,percent,0.05700000002980232
+Japan,Historical,EV sales share,Vans,EV,2016,percent,0.050999999046325684
+Japan,Historical,EV sales share,Vans,EV,2017,percent,0.05000000074505806
+Japan,Historical,EV stock share,Vans,EV,2017,percent,0.05999999865889549
+Japan,Historical,EV sales,Vans,BEV,2017,Vehicles,320
+Japan,Historical,EV stock,Vans,BEV,2017,Vehicles,7900
+Japan,Historical,EV stock,Vans,BEV,2018,Vehicles,8200
+Japan,Historical,EV sales,Vans,BEV,2018,Vehicles,280
+Japan,Historical,EV stock share,Vans,EV,2018,percent,0.06199999898672104
+Japan,Historical,EV sales share,Vans,EV,2018,percent,0.03999999910593033
+Japan,Historical,EV sales share,Vans,EV,2019,percent,0.07500000298023224
+Japan,Historical,EV stock share,Vans,EV,2019,percent,0.06700000166893005
+Japan,Historical,EV sales,Vans,BEV,2019,Vehicles,520
+Japan,Historical,EV stock,Vans,BEV,2019,Vehicles,8700
+Japan,Historical,EV stock,Vans,BEV,2020,Vehicles,10000
+Japan,Historical,EV sales,Vans,BEV,2020,Vehicles,1500
+Japan,Historical,EV stock share,Vans,EV,2020,percent,0.07800000160932541
+Japan,Historical,EV sales share,Vans,EV,2020,percent,0.23999999463558197
+Japan,Historical,EV sales share,Vans,EV,2021,percent,0.15000000596046448
+Japan,Historical,EV stock share,Vans,EV,2021,percent,0.08500000089406967
+Japan,Historical,EV sales,Vans,BEV,2021,Vehicles,920
+Japan,Historical,EV stock,Vans,BEV,2021,Vehicles,11000
+Japan,Historical,EV stock,Vans,BEV,2022,Vehicles,39000
+Japan,Historical,EV sales,Vans,BEV,2022,Vehicles,1600
+Japan,Historical,EV stock share,Vans,EV,2022,percent,0.3100000023841858
+Japan,Historical,EV sales share,Vans,EV,2022,percent,0.25
+Japan,Historical,EV sales share,Vans,EV,2023,percent,0.4300000071525574
+Japan,Historical,EV stock share,Vans,EV,2023,percent,0.12999999523162842
+Japan,Historical,EV sales,Vans,BEV,2023,Vehicles,2800
+Japan,Historical,EV stock,Vans,BEV,2023,Vehicles,15000
+Korea,Historical,EV stock,Vans,BEV,2015,Vehicles,18
+Korea,Historical,EV sales,Vans,BEV,2015,Vehicles,18
+Korea,Historical,EV stock share,Vans,EV,2015,percent,0.000750000006519258
+Korea,Historical,EV sales share,Vans,EV,2015,percent,0.010999999940395355
+Korea,Historical,EV sales share,Vans,EV,2016,percent,0.009399999864399433
+Korea,Historical,EV stock share,Vans,EV,2016,percent,0.0013000000035390258
+Korea,Historical,EV sales,Vans,BEV,2016,Vehicles,14
+Korea,Historical,EV stock,Vans,BEV,2016,Vehicles,32
+Korea,Historical,EV stock,Vans,BEV,2017,Vehicles,32
+Korea,Historical,EV stock share,Vans,EV,2017,percent,0.0013000000035390258
+Korea,Historical,EV stock share,Vans,EV,2018,percent,0.013000000268220901
+Korea,Historical,EV sales share,Vans,EV,2018,percent,0.14000000059604645
+Korea,Historical,EV stock,Vans,BEV,2018,Vehicles,330
+Korea,Historical,EV sales,Vans,BEV,2018,Vehicles,300
+Korea,Historical,EV sales,Vans,FCEV,2018,Vehicles,2
+Korea,Historical,EV sales,Vans,FCEV,2019,Vehicles,15
+Korea,Historical,EV sales,Vans,BEV,2019,Vehicles,1500
+Korea,Historical,EV stock,Vans,BEV,2019,Vehicles,1900
+Korea,Historical,EV sales share,Vans,EV,2019,percent,0.7300000190734863
+Korea,Historical,EV stock share,Vans,EV,2019,percent,0.0729999989271164
+Korea,Historical,EV stock share,Vans,EV,2020,percent,0.6299999952316284
+Korea,Historical,EV sales share,Vans,EV,2020,percent,6
+Korea,Historical,EV sales,Vans,BEV,2020,Vehicles,15000
+Korea,Historical,EV sales,Vans,FCEV,2020,Vehicles,60
+Korea,Historical,EV stock,Vans,BEV,2020,Vehicles,16000
+Korea,Historical,EV stock,Vans,BEV,2021,Vehicles,45000
+Korea,Historical,EV sales,Vans,FCEV,2021,Vehicles,54
+Korea,Historical,EV sales,Vans,BEV,2021,Vehicles,29000
+Korea,Historical,EV sales share,Vans,EV,2021,percent,12
+Korea,Historical,EV stock share,Vans,EV,2021,percent,1.7000000476837158
+Korea,Historical,EV stock share,Vans,EV,2022,percent,2.9000000953674316
+Korea,Historical,EV sales share,Vans,EV,2022,percent,15
+Korea,Historical,EV sales,Vans,BEV,2022,Vehicles,36000
+Korea,Historical,EV stock,Vans,BEV,2022,Vehicles,81000
+Korea,Historical,EV stock,Vans,BEV,2023,Vehicles,120000
+Korea,Historical,EV sales,Vans,BEV,2023,Vehicles,41000
+Korea,Historical,EV sales share,Vans,EV,2023,percent,18
+Korea,Historical,EV stock share,Vans,EV,2023,percent,4.199999809265137
+Netherlands,Historical,EV stock,Vans,BEV,2010,Vehicles,86
+Netherlands,Historical,EV sales,Vans,BEV,2010,Vehicles,39
+Netherlands,Historical,EV sales share,Vans,EV,2010,percent,0.07900000363588333
+Netherlands,Historical,EV stock share,Vans,EV,2010,percent,0.009999999776482582
+Netherlands,Historical,EV stock share,Vans,EV,2011,percent,0.017000000923871994
+Netherlands,Historical,EV sales share,Vans,EV,2011,percent,0.11999999731779099
+Netherlands,Historical,EV sales,Vans,BEV,2011,Vehicles,72
+Netherlands,Historical,EV stock,Vans,BEV,2011,Vehicles,160
+Netherlands,Historical,EV stock,Vans,BEV,2012,Vehicles,490
+Netherlands,Historical,EV sales,Vans,BEV,2012,Vehicles,340
+Netherlands,Historical,EV sales share,Vans,EV,2012,percent,0.5899999737739563
+Netherlands,Historical,EV stock share,Vans,EV,2012,percent,0.054999999701976776
+Netherlands,Historical,EV stock share,Vans,EV,2013,percent,0.07500000298023224
+Netherlands,Historical,EV sales share,Vans,EV,2013,percent,0.3499999940395355
+Netherlands,Historical,EV sales,Vans,BEV,2013,Vehicles,180
+Netherlands,Historical,EV stock,Vans,BEV,2013,Vehicles,670
+Netherlands,Historical,EV stock,Vans,BEV,2014,Vehicles,1300
+Netherlands,Historical,EV sales,Vans,BEV,2014,Vehicles,590
+Netherlands,Historical,EV sales share,Vans,EV,2014,percent,1.100000023841858
+Netherlands,Historical,EV stock share,Vans,EV,2014,percent,0.14000000059604645
+Netherlands,Historical,EV stock share,Vans,EV,2015,percent,0.1599999964237213
+Netherlands,Historical,EV sales share,Vans,EV,2015,percent,0.4699999988079071
+Netherlands,Historical,EV sales,Vans,BEV,2015,Vehicles,260
+Netherlands,Historical,EV stock,Vans,BEV,2015,Vehicles,1500
+Netherlands,Historical,EV stock,Vans,FCEV,2015,Vehicles,4
+Netherlands,Historical,EV stock,Vans,PHEV,2015,Vehicles,2
+Netherlands,Historical,EV stock,Vans,PHEV,2016,Vehicles,2
+Netherlands,Historical,EV stock,Vans,FCEV,2016,Vehicles,5
+Netherlands,Historical,EV stock,Vans,BEV,2016,Vehicles,1600
+Netherlands,Historical,EV sales,Vans,BEV,2016,Vehicles,290
+Netherlands,Historical,EV sales share,Vans,EV,2016,percent,0.4300000071525574
+Netherlands,Historical,EV stock share,Vans,EV,2016,percent,0.17000000178813934
+Netherlands,Historical,EV stock share,Vans,EV,2017,percent,0.23000000417232513
+Netherlands,Historical,EV sales share,Vans,EV,2017,percent,0.7400000095367432
+Netherlands,Historical,EV sales,Vans,BEV,2017,Vehicles,650
+Netherlands,Historical,EV stock,Vans,FCEV,2017,Vehicles,3
+Netherlands,Historical,EV stock,Vans,PHEV,2017,Vehicles,2
+Netherlands,Historical,EV sales,Vans,FCEV,2017,Vehicles,1
+Netherlands,Historical,EV stock,Vans,BEV,2017,Vehicles,2200
+Netherlands,Historical,EV stock,Vans,BEV,2018,Vehicles,3100
+Netherlands,Historical,EV sales,Vans,FCEV,2018,Vehicles,2
+Netherlands,Historical,EV stock,Vans,PHEV,2018,Vehicles,3
+Netherlands,Historical,EV stock,Vans,FCEV,2018,Vehicles,5
+Netherlands,Historical,EV sales,Vans,BEV,2018,Vehicles,1000
+Netherlands,Historical,EV sales share,Vans,EV,2018,percent,1.100000023841858
+Netherlands,Historical,EV stock share,Vans,EV,2018,percent,0.3199999928474426
+Netherlands,Historical,EV stock share,Vans,EV,2019,percent,0.4399999976158142
+Netherlands,Historical,EV sales share,Vans,EV,2019,percent,1.5
+Netherlands,Historical,EV sales,Vans,BEV,2019,Vehicles,1400
+Netherlands,Historical,EV stock,Vans,FCEV,2019,Vehicles,5
+Netherlands,Historical,EV stock,Vans,PHEV,2019,Vehicles,3
+Netherlands,Historical,EV stock,Vans,BEV,2019,Vehicles,4300
+Netherlands,Historical,EV stock,Vans,BEV,2020,Vehicles,5900
+Netherlands,Historical,EV stock,Vans,PHEV,2020,Vehicles,30
+Netherlands,Historical,EV stock,Vans,FCEV,2020,Vehicles,12
+Netherlands,Historical,EV sales,Vans,BEV,2020,Vehicles,1700
+Netherlands,Historical,EV sales share,Vans,EV,2020,percent,2.4000000953674316
+Netherlands,Historical,EV stock share,Vans,EV,2020,percent,0.5899999737739563
+Netherlands,Historical,EV sales,Vans,PHEV,2020,Vehicles,33
+Netherlands,Historical,EV sales,Vans,PHEV,2021,Vehicles,46
+Netherlands,Historical,EV stock share,Vans,EV,2021,percent,0.8700000047683716
+Netherlands,Historical,EV sales share,Vans,EV,2021,percent,3.9000000953674316
+Netherlands,Historical,EV sales,Vans,BEV,2021,Vehicles,3300
+Netherlands,Historical,EV stock,Vans,FCEV,2021,Vehicles,13
+Netherlands,Historical,EV stock,Vans,PHEV,2021,Vehicles,78
+Netherlands,Historical,EV stock,Vans,BEV,2021,Vehicles,9000
+Netherlands,Historical,EV stock,Vans,BEV,2022,Vehicles,14000
+Netherlands,Historical,EV stock,Vans,PHEV,2022,Vehicles,130
+Netherlands,Historical,EV stock,Vans,FCEV,2022,Vehicles,13
+Netherlands,Historical,EV sales,Vans,BEV,2022,Vehicles,5000
+Netherlands,Historical,EV sales share,Vans,EV,2022,percent,6.599999904632568
+Netherlands,Historical,EV stock share,Vans,EV,2022,percent,1.2999999523162842
+Netherlands,Historical,EV sales,Vans,PHEV,2022,Vehicles,35
+Netherlands,Historical,EV sales,Vans,PHEV,2023,Vehicles,90
+Netherlands,Historical,EV stock share,Vans,EV,2023,percent,2.200000047683716
+Netherlands,Historical,EV sales share,Vans,EV,2023,percent,12
+Netherlands,Historical,EV sales,Vans,BEV,2023,Vehicles,10000
+Netherlands,Historical,EV stock,Vans,FCEV,2023,Vehicles,13
+Netherlands,Historical,EV stock,Vans,PHEV,2023,Vehicles,160
+Netherlands,Historical,EV stock,Vans,BEV,2023,Vehicles,23000
+New Zealand,Historical,EV stock share,Vans,EV,2019,percent,0.12999999523162842
+New Zealand,Historical,EV sales share,Vans,EV,2019,percent,0.11999999731779099
+New Zealand,Historical,EV sales,Vans,BEV,2019,Vehicles,70
+New Zealand,Historical,EV stock,Vans,BEV,2019,Vehicles,780
+New Zealand,Historical,EV stock,Vans,BEV,2020,Vehicles,850
+New Zealand,Historical,EV sales,Vans,PHEV,2020,Vehicles,1
+New Zealand,Historical,EV stock,Vans,PHEV,2020,Vehicles,1
+New Zealand,Historical,EV sales,Vans,BEV,2020,Vehicles,78
+New Zealand,Historical,EV sales share,Vans,EV,2020,percent,0.14000000059604645
+New Zealand,Historical,EV stock share,Vans,EV,2020,percent,0.12999999523162842
+New Zealand,Historical,EV stock share,Vans,EV,2021,percent,0.15000000596046448
+New Zealand,Historical,EV sales share,Vans,EV,2021,percent,0.30000001192092896
+New Zealand,Historical,EV sales,Vans,BEV,2021,Vehicles,140
+New Zealand,Historical,EV stock,Vans,PHEV,2021,Vehicles,25
+New Zealand,Historical,EV sales,Vans,PHEV,2021,Vehicles,22
+New Zealand,Historical,EV stock,Vans,BEV,2021,Vehicles,980
+New Zealand,Historical,EV stock,Vans,FCEV,2021,Vehicles,6
+New Zealand,Historical,EV stock,Vans,FCEV,2022,Vehicles,6
+New Zealand,Historical,EV stock,Vans,BEV,2022,Vehicles,1400
+New Zealand,Historical,EV sales,Vans,PHEV,2022,Vehicles,50
+New Zealand,Historical,EV stock,Vans,PHEV,2022,Vehicles,74
+New Zealand,Historical,EV sales,Vans,BEV,2022,Vehicles,420
+New Zealand,Historical,EV sales share,Vans,EV,2022,percent,1.100000023841858
+New Zealand,Historical,EV stock share,Vans,EV,2022,percent,0.20999999344348907
+New Zealand,Historical,EV stock share,Vans,EV,2023,percent,0.25999999046325684
+New Zealand,Historical,EV sales share,Vans,EV,2023,percent,1.5
+New Zealand,Historical,EV sales,Vans,BEV,2023,Vehicles,500
+New Zealand,Historical,EV stock,Vans,PHEV,2023,Vehicles,88
+New Zealand,Historical,EV sales,Vans,PHEV,2023,Vehicles,15
+New Zealand,Historical,EV stock,Vans,BEV,2023,Vehicles,1800
+Norway,Historical,EV sales,Vans,BEV,2010,Vehicles,1
+Norway,Historical,EV sales share,Vans,EV,2010,percent,0.0034000000450760126
+Norway,Historical,EV sales share,Vans,EV,2011,percent,0.11999999731779099
+Norway,Historical,EV stock share,Vans,EV,2011,percent,0.00022000000171829015
+Norway,Historical,EV sales,Vans,BEV,2011,Vehicles,42
+Norway,Historical,EV stock,Vans,BEV,2011,Vehicles,1
+Norway,Historical,EV stock,Vans,BEV,2012,Vehicles,5
+Norway,Historical,EV sales,Vans,BEV,2012,Vehicles,61
+Norway,Historical,EV stock share,Vans,EV,2012,percent,0.0010999999940395355
+Norway,Historical,EV sales share,Vans,EV,2012,percent,0.1899999976158142
+Norway,Historical,EV sales share,Vans,EV,2013,percent,1.2000000476837158
+Norway,Historical,EV stock share,Vans,EV,2013,percent,0.0010000000474974513
+Norway,Historical,EV sales,Vans,BEV,2013,Vehicles,340
+Norway,Historical,EV stock,Vans,BEV,2013,Vehicles,5
+Norway,Historical,EV stock,Vans,BEV,2014,Vehicles,560
+Norway,Historical,EV sales,Vans,BEV,2014,Vehicles,560
+Norway,Historical,EV stock share,Vans,EV,2014,percent,0.11999999731779099
+Norway,Historical,EV sales share,Vans,EV,2014,percent,2
+Norway,Historical,EV sales share,Vans,EV,2015,percent,2.299999952316284
+Norway,Historical,EV stock share,Vans,EV,2015,percent,0.25999999046325684
+Norway,Historical,EV sales,Vans,BEV,2015,Vehicles,710
+Norway,Historical,EV stock,Vans,BEV,2015,Vehicles,1300
+Norway,Historical,EV stock,Vans,BEV,2016,Vehicles,2000
+Norway,Historical,EV sales,Vans,BEV,2016,Vehicles,640
+Norway,Historical,EV stock share,Vans,EV,2016,percent,0.38999998569488525
+Norway,Historical,EV sales share,Vans,EV,2016,percent,1.899999976158142
+Norway,Historical,EV sales share,Vans,EV,2017,percent,2.200000047683716
+Norway,Historical,EV stock share,Vans,EV,2017,percent,0.5699999928474426
+Norway,Historical,EV sales,Vans,BEV,2017,Vehicles,770
+Norway,Historical,EV stock,Vans,BEV,2017,Vehicles,2900
+Norway,Historical,EV stock,Vans,PHEV,2017,Vehicles,10
+Norway,Historical,EV stock,Vans,PHEV,2018,Vehicles,10
+Norway,Historical,EV stock,Vans,BEV,2018,Vehicles,4700
+Norway,Historical,EV sales,Vans,BEV,2018,Vehicles,1800
+Norway,Historical,EV stock share,Vans,EV,2018,percent,0.8999999761581421
+Norway,Historical,EV sales share,Vans,EV,2018,percent,5.099999904632568
+Norway,Historical,EV sales share,Vans,EV,2019,percent,5.599999904632568
+Norway,Historical,EV stock share,Vans,EV,2019,percent,1.2999999523162842
+Norway,Historical,EV sales,Vans,BEV,2019,Vehicles,2000
+Norway,Historical,EV stock,Vans,BEV,2019,Vehicles,6700
+Norway,Historical,EV stock,Vans,PHEV,2019,Vehicles,10
+Norway,Historical,EV stock,Vans,PHEV,2020,Vehicles,43
+Norway,Historical,EV stock,Vans,FCEV,2020,Vehicles,1
+Norway,Historical,EV sales,Vans,PHEV,2020,Vehicles,11
+Norway,Historical,EV stock,Vans,BEV,2020,Vehicles,9700
+Norway,Historical,EV sales,Vans,BEV,2020,Vehicles,2600
+Norway,Historical,EV stock share,Vans,EV,2020,percent,1.7999999523162842
+Norway,Historical,EV sales share,Vans,EV,2020,percent,8.5
+Norway,Historical,EV sales share,Vans,EV,2021,percent,5.599999904632568
+Norway,Historical,EV stock share,Vans,EV,2021,percent,2.200000047683716
+Norway,Historical,EV sales,Vans,BEV,2021,Vehicles,1600
+Norway,Historical,EV stock,Vans,BEV,2021,Vehicles,11000
+Norway,Historical,EV sales,Vans,PHEV,2021,Vehicles,58
+Norway,Historical,EV stock,Vans,FCEV,2021,Vehicles,1
+Norway,Historical,EV stock,Vans,PHEV,2021,Vehicles,310
+Norway,Historical,EV stock,Vans,PHEV,2022,Vehicles,500
+Norway,Historical,EV stock,Vans,FCEV,2022,Vehicles,1
+Norway,Historical,EV sales,Vans,PHEV,2022,Vehicles,220
+Norway,Historical,EV stock,Vans,BEV,2022,Vehicles,21000
+Norway,Historical,EV sales,Vans,BEV,2022,Vehicles,7000
+Norway,Historical,EV stock share,Vans,EV,2022,percent,4.099999904632568
+Norway,Historical,EV sales share,Vans,EV,2022,percent,24
+Norway,Historical,EV sales share,Vans,EV,2023,percent,29
+Norway,Historical,EV stock share,Vans,EV,2023,percent,5.800000190734863
+Norway,Historical,EV sales,Vans,BEV,2023,Vehicles,8800
+Norway,Historical,EV stock,Vans,BEV,2023,Vehicles,30000
+Norway,Historical,EV sales,Vans,PHEV,2023,Vehicles,130
+Norway,Historical,EV stock,Vans,FCEV,2023,Vehicles,1
+Norway,Historical,EV stock,Vans,PHEV,2023,Vehicles,660
+Poland,Historical,EV sales share,Vans,EV,2010,percent,0.007799999788403511
+Poland,Historical,EV sales,Vans,BEV,2010,Vehicles,3
+Poland,Historical,EV sales,Vans,BEV,2011,Vehicles,3
+Poland,Historical,EV sales share,Vans,EV,2011,percent,0.006599999964237213
+Poland,Historical,EV sales share,Vans,EV,2012,percent,0.041999999433755875
+Poland,Historical,EV sales,Vans,BEV,2012,Vehicles,16
+Poland,Historical,EV sales,Vans,BEV,2013,Vehicles,10
+Poland,Historical,EV sales share,Vans,EV,2013,percent,0.02500000037252903
+Poland,Historical,EV sales share,Vans,EV,2014,percent,0.017999999225139618
+Poland,Historical,EV sales,Vans,BEV,2014,Vehicles,8
+Poland,Historical,EV sales,Vans,BEV,2015,Vehicles,13
+Poland,Historical,EV stock,Vans,BEV,2015,Vehicles,18
+Poland,Historical,EV sales,Vans,PHEV,2015,Vehicles,2
+Poland,Historical,EV sales share,Vans,EV,2015,percent,0.02800000086426735
+Poland,Historical,EV stock share,Vans,EV,2015,percent,0.0007399999885819852
+Poland,Historical,EV stock share,Vans,EV,2016,percent,0.0010999999940395355
+Poland,Historical,EV sales share,Vans,EV,2016,percent,0.027000000700354576
+Poland,Historical,EV stock,Vans,BEV,2016,Vehicles,27
+Poland,Historical,EV sales,Vans,BEV,2016,Vehicles,16
+Poland,Historical,EV sales,Vans,BEV,2017,Vehicles,28
+Poland,Historical,EV stock,Vans,BEV,2017,Vehicles,34
+Poland,Historical,EV sales share,Vans,EV,2017,percent,0.04699999839067459
+Poland,Historical,EV stock share,Vans,EV,2017,percent,0.0013000000035390258
+Poland,Historical,EV stock share,Vans,EV,2018,percent,0.005799999926239252
+Poland,Historical,EV sales share,Vans,EV,2018,percent,0.061000000685453415
+Poland,Historical,EV stock,Vans,BEV,2018,Vehicles,120
+Poland,Historical,EV sales,Vans,BEV,2018,Vehicles,42
+Poland,Historical,EV sales,Vans,BEV,2019,Vehicles,130
+Poland,Historical,EV stock,Vans,BEV,2019,Vehicles,490
+Poland,Historical,EV stock,Vans,PHEV,2019,Vehicles,3
+Poland,Historical,EV sales share,Vans,EV,2019,percent,0.1899999976158142
+Poland,Historical,EV stock share,Vans,EV,2019,percent,0.02199999988079071
+Poland,Historical,EV stock share,Vans,EV,2020,percent,0.035999998450279236
+Poland,Historical,EV sales share,Vans,EV,2020,percent,0.3700000047683716
+Poland,Historical,EV stock,Vans,PHEV,2020,Vehicles,8
+Poland,Historical,EV sales,Vans,PHEV,2020,Vehicles,2
+Poland,Historical,EV stock,Vans,BEV,2020,Vehicles,810
+Poland,Historical,EV sales,Vans,BEV,2020,Vehicles,220
+Poland,Historical,EV sales,Vans,BEV,2021,Vehicles,840
+Poland,Historical,EV stock,Vans,BEV,2021,Vehicles,1500
+Poland,Historical,EV sales,Vans,PHEV,2021,Vehicles,1
+Poland,Historical,EV stock,Vans,PHEV,2021,Vehicles,4
+Poland,Historical,EV sales share,Vans,EV,2021,percent,1.100000023841858
+Poland,Historical,EV stock share,Vans,EV,2021,percent,0.06300000101327896
+Poland,Historical,EV stock share,Vans,EV,2022,percent,0.12999999523162842
+Poland,Historical,EV sales share,Vans,EV,2022,percent,1.7999999523162842
+Poland,Historical,EV stock,Vans,PHEV,2022,Vehicles,5
+Poland,Historical,EV sales,Vans,PHEV,2022,Vehicles,1
+Poland,Historical,EV stock,Vans,BEV,2022,Vehicles,3100
+Poland,Historical,EV sales,Vans,BEV,2022,Vehicles,1100
+Poland,Historical,EV sales,Vans,BEV,2023,Vehicles,2400
+Poland,Historical,EV stock,Vans,BEV,2023,Vehicles,5800
+Poland,Historical,EV stock,Vans,PHEV,2023,Vehicles,6
+Poland,Historical,EV sales share,Vans,EV,2023,percent,3.799999952316284
+Poland,Historical,EV stock share,Vans,EV,2023,percent,0.23999999463558197
+Portugal,Historical,EV sales share,Vans,EV,2013,percent,0.15000000596046448
+Portugal,Historical,EV sales,Vans,BEV,2013,Vehicles,27
+Portugal,Historical,EV sales,Vans,BEV,2014,Vehicles,26
+Portugal,Historical,EV sales share,Vans,EV,2014,percent,0.10000000149011612
+Portugal,Historical,EV sales share,Vans,EV,2017,percent,0.5600000023841858
+Portugal,Historical,EV sales,Vans,BEV,2017,Vehicles,200
+Portugal,Historical,EV stock,Vans,BEV,2017,Vehicles,76
+Portugal,Historical,EV stock share,Vans,EV,2017,percent,0.006899999920278788
+Portugal,Historical,EV stock share,Vans,EV,2018,percent,0.028999999165534973
+Portugal,Historical,EV stock,Vans,BEV,2018,Vehicles,330
+Portugal,Historical,EV sales,Vans,BEV,2018,Vehicles,260
+Portugal,Historical,EV sales share,Vans,EV,2018,percent,0.6700000166893005
+Portugal,Historical,EV sales share,Vans,EV,2019,percent,0.6200000047683716
+Portugal,Historical,EV sales,Vans,BEV,2019,Vehicles,230
+Portugal,Historical,EV stock,Vans,BEV,2019,Vehicles,540
+Portugal,Historical,EV stock share,Vans,EV,2019,percent,0.04800000041723251
+Portugal,Historical,EV stock share,Vans,EV,2020,percent,0.17000000178813934
+Portugal,Historical,EV stock,Vans,BEV,2020,Vehicles,1900
+Portugal,Historical,EV sales,Vans,BEV,2020,Vehicles,270
+Portugal,Historical,EV sales share,Vans,EV,2020,percent,0.9900000095367432
+Portugal,Historical,EV sales share,Vans,EV,2021,percent,1.2999999523162842
+Portugal,Historical,EV sales,Vans,BEV,2021,Vehicles,360
+Portugal,Historical,EV stock,Vans,BEV,2021,Vehicles,2300
+Portugal,Historical,EV stock share,Vans,EV,2021,percent,0.20000000298023224
+Portugal,Historical,EV sales,Vans,PHEV,2021,Vehicles,7
+Portugal,Historical,EV stock,Vans,PHEV,2021,Vehicles,7
+Portugal,Historical,EV stock,Vans,PHEV,2022,Vehicles,9
+Portugal,Historical,EV sales,Vans,PHEV,2022,Vehicles,2
+Portugal,Historical,EV stock share,Vans,EV,2022,percent,0.30000001192092896
+Portugal,Historical,EV stock,Vans,BEV,2022,Vehicles,3300
+Portugal,Historical,EV sales,Vans,BEV,2022,Vehicles,1000
+Portugal,Historical,EV sales share,Vans,EV,2022,percent,4.300000190734863
+Portugal,Historical,EV sales share,Vans,EV,2023,percent,8.600000381469727
+Portugal,Historical,EV sales,Vans,BEV,2023,Vehicles,2500
+Portugal,Historical,EV stock,Vans,BEV,2023,Vehicles,4800
+Portugal,Historical,EV stock share,Vans,EV,2023,percent,0.4699999988079071
+Portugal,Historical,EV stock,Vans,PHEV,2023,Vehicles,9
+Rest of the world,Historical,Oil displacement Mbd,Vans,EV,2011,Milion barrels per day,0.000035000000934815034
+Rest of the world,Historical,"Oil displacement, million lge",Vans,EV,2011,"Oil displacement, million lge",2
+Rest of the world,Historical,Oil displacement Mbd,Vans,EV,2012,Milion barrels per day,0.00013000000035390258
+Rest of the world,Historical,"Oil displacement, million lge",Vans,EV,2012,"Oil displacement, million lge",7.5
+Rest of the world,Historical,Electricity demand,Vans,EV,2012,GWh,19
+Rest of the world,Historical,Electricity demand,Vans,EV,2013,GWh,49
+Rest of the world,Historical,Oil displacement Mbd,Vans,EV,2013,Milion barrels per day,0.00019999999494757503
+Rest of the world,Historical,"Oil displacement, million lge",Vans,EV,2013,"Oil displacement, million lge",12
+Rest of the world,Historical,Oil displacement Mbd,Vans,EV,2014,Milion barrels per day,0.00022000000171829015
+Rest of the world,Historical,"Oil displacement, million lge",Vans,EV,2014,"Oil displacement, million lge",13
+Rest of the world,Historical,Electricity demand,Vans,EV,2014,GWh,370
+Rest of the world,Historical,Electricity demand,Vans,EV,2015,GWh,480
+Rest of the world,Historical,Oil displacement Mbd,Vans,EV,2015,Milion barrels per day,0.0002500000118743628
+Rest of the world,Historical,"Oil displacement, million lge",Vans,EV,2015,"Oil displacement, million lge",15
+Rest of the world,Historical,EV sales,Vans,BEV,2015,Vehicles,21
+Rest of the world,Historical,EV stock,Vans,BEV,2015,Vehicles,21
+Rest of the world,Historical,EV stock,Vans,BEV,2016,Vehicles,39
+Rest of the world,Historical,EV sales,Vans,BEV,2016,Vehicles,18
+Rest of the world,Historical,Oil displacement Mbd,Vans,EV,2016,Milion barrels per day,0.0002500000118743628
+Rest of the world,Historical,"Oil displacement, million lge",Vans,EV,2016,"Oil displacement, million lge",15
+Rest of the world,Historical,Electricity demand,Vans,EV,2016,GWh,380
+Rest of the world,Historical,Electricity demand,Vans,EV,2017,GWh,100
+Rest of the world,Historical,Oil displacement Mbd,Vans,EV,2017,Milion barrels per day,0.00023999999393709004
+Rest of the world,Historical,"Oil displacement, million lge",Vans,EV,2017,"Oil displacement, million lge",14
+Rest of the world,Historical,EV sales,Vans,BEV,2017,Vehicles,33
+Rest of the world,Historical,EV stock,Vans,BEV,2017,Vehicles,71
+Rest of the world,Historical,EV stock,Vans,BEV,2018,Vehicles,130
+Rest of the world,Historical,EV sales,Vans,BEV,2018,Vehicles,60
+Rest of the world,Historical,Oil displacement Mbd,Vans,EV,2018,Milion barrels per day,0.0002500000118743628
+Rest of the world,Historical,"Oil displacement, million lge",Vans,EV,2018,"Oil displacement, million lge",14
+Rest of the world,Historical,Electricity demand,Vans,EV,2018,GWh,68
+Rest of the world,Historical,Electricity demand,Vans,EV,2019,GWh,67
+Rest of the world,Historical,Oil displacement Mbd,Vans,EV,2019,Milion barrels per day,0.0002800000074785203
+Rest of the world,Historical,"Oil displacement, million lge",Vans,EV,2019,"Oil displacement, million lge",16
+Rest of the world,Historical,EV sales,Vans,BEV,2019,Vehicles,180
+Rest of the world,Historical,EV stock,Vans,BEV,2019,Vehicles,310
+Rest of the world,Historical,EV stock,Vans,BEV,2020,Vehicles,490
+Rest of the world,Historical,EV sales,Vans,BEV,2020,Vehicles,190
+Rest of the world,Historical,Oil displacement Mbd,Vans,EV,2020,Milion barrels per day,0.0012000000569969416
+Rest of the world,Historical,"Oil displacement, million lge",Vans,EV,2020,"Oil displacement, million lge",69
+Rest of the world,Historical,Electricity demand,Vans,EV,2020,GWh,150
+Rest of the world,Historical,Electricity demand,Vans,EV,2021,GWh,270
+Rest of the world,Historical,Oil displacement Mbd,Vans,EV,2021,Milion barrels per day,0.00279999990016222
+Rest of the world,Historical,"Oil displacement, million lge",Vans,EV,2021,"Oil displacement, million lge",160
+Rest of the world,Historical,EV sales,Vans,BEV,2021,Vehicles,530
+Rest of the world,Historical,EV stock,Vans,BEV,2021,Vehicles,1000
+Rest of the world,Historical,EV stock,Vans,BEV,2022,Vehicles,1800
+Rest of the world,Historical,EV sales,Vans,BEV,2022,Vehicles,770
+Rest of the world,Historical,Oil displacement Mbd,Vans,EV,2022,Milion barrels per day,0.004699999932199717
+Rest of the world,Historical,"Oil displacement, million lge",Vans,EV,2022,"Oil displacement, million lge",270
+Rest of the world,Historical,Electricity demand,Vans,EV,2022,GWh,300
+Rest of the world,Historical,Electricity demand,Vans,EV,2023,GWh,1000
+Rest of the world,Historical,Oil displacement Mbd,Vans,EV,2023,Milion barrels per day,0.008500000461935997
+Rest of the world,Historical,"Oil displacement, million lge",Vans,EV,2023,"Oil displacement, million lge",490
+Rest of the world,Historical,EV sales,Vans,BEV,2023,Vehicles,1100
+Rest of the world,Historical,EV stock,Vans,BEV,2023,Vehicles,2900
+Rest of the world,Historical,EV sales,Vans,FCEV,2023,Vehicles,1
+Rest of the world,Historical,EV stock,Vans,FCEV,2023,Vehicles,1
+Spain,Historical,EV sales,Vans,BEV,2011,Vehicles,24
+Spain,Historical,EV sales share,Vans,EV,2011,percent,0.023000000044703484
+Spain,Historical,EV sales share,Vans,EV,2012,percent,0.27000001072883606
+Spain,Historical,EV sales,Vans,BEV,2012,Vehicles,200
+Spain,Historical,EV sales,Vans,BEV,2013,Vehicles,72
+Spain,Historical,EV sales share,Vans,EV,2013,percent,0.08399999886751175
+Spain,Historical,EV sales share,Vans,EV,2014,percent,0.3100000023841858
+Spain,Historical,EV sales,Vans,BEV,2014,Vehicles,360
+Spain,Historical,EV sales,Vans,BEV,2015,Vehicles,540
+Spain,Historical,EV stock,Vans,BEV,2015,Vehicles,1100
+Spain,Historical,EV sales share,Vans,EV,2015,percent,0.3700000047683716
+Spain,Historical,EV stock share,Vans,EV,2015,percent,0.024000000208616257
+Spain,Historical,EV stock share,Vans,EV,2016,percent,0.061000000685453415
+Spain,Historical,EV sales share,Vans,EV,2016,percent,0.4699999988079071
+Spain,Historical,EV stock,Vans,BEV,2016,Vehicles,2100
+Spain,Historical,EV sales,Vans,BEV,2016,Vehicles,720
+Spain,Historical,EV sales,Vans,BEV,2017,Vehicles,840
+Spain,Historical,EV stock,Vans,BEV,2017,Vehicles,3000
+Spain,Historical,EV sales share,Vans,EV,2017,percent,0.5099999904632568
+Spain,Historical,EV stock share,Vans,EV,2017,percent,0.08399999886751175
+Spain,Historical,EV stock share,Vans,EV,2018,percent,0.12999999523162842
+Spain,Historical,EV sales share,Vans,EV,2018,percent,0.9599999785423279
+Spain,Historical,EV stock,Vans,BEV,2018,Vehicles,4800
+Spain,Historical,EV sales,Vans,BEV,2018,Vehicles,1800
+Spain,Historical,EV sales,Vans,BEV,2019,Vehicles,1900
+Spain,Historical,EV stock,Vans,BEV,2019,Vehicles,6300
+Spain,Historical,EV stock,Vans,PHEV,2019,Vehicles,8
+Spain,Historical,EV sales share,Vans,EV,2019,percent,1.100000023841858
+Spain,Historical,EV stock share,Vans,EV,2019,percent,0.17000000178813934
+Spain,Historical,EV stock share,Vans,EV,2020,percent,0.20999999344348907
+Spain,Historical,EV sales share,Vans,EV,2020,percent,1.5
+Spain,Historical,EV stock,Vans,PHEV,2020,Vehicles,8
+Spain,Historical,EV stock,Vans,BEV,2020,Vehicles,7900
+Spain,Historical,EV sales,Vans,BEV,2020,Vehicles,2000
+Spain,Historical,EV sales,Vans,BEV,2021,Vehicles,2300
+Spain,Historical,EV stock,Vans,BEV,2021,Vehicles,10000
+Spain,Historical,EV stock,Vans,PHEV,2021,Vehicles,46
+Spain,Historical,EV sales,Vans,PHEV,2021,Vehicles,46
+Spain,Historical,EV sales share,Vans,EV,2021,percent,1.600000023841858
+Spain,Historical,EV stock share,Vans,EV,2021,percent,0.27000001072883606
+Spain,Historical,EV stock share,Vans,EV,2022,percent,0.3700000047683716
+Spain,Historical,EV sales share,Vans,EV,2022,percent,3.0999999046325684
+Spain,Historical,EV sales,Vans,PHEV,2022,Vehicles,94
+Spain,Historical,EV stock,Vans,PHEV,2022,Vehicles,200
+Spain,Historical,EV stock,Vans,BEV,2022,Vehicles,14000
+Spain,Historical,EV sales,Vans,BEV,2022,Vehicles,3500
+Spain,Historical,EV sales,Vans,BEV,2023,Vehicles,10000
+Spain,Historical,EV stock,Vans,BEV,2023,Vehicles,24000
+Spain,Historical,EV stock,Vans,PHEV,2023,Vehicles,210
+Spain,Historical,EV sales,Vans,PHEV,2023,Vehicles,5
+Spain,Historical,EV sales share,Vans,EV,2023,percent,7.199999809265137
+Spain,Historical,EV stock share,Vans,EV,2023,percent,0.6800000071525574
+Sweden,Historical,EV sales share,Vans,EV,2011,percent,0.01899999938905239
+Sweden,Historical,EV stock share,Vans,EV,2011,percent,0.0019000000320374966
+Sweden,Historical,EV sales,Vans,BEV,2011,Vehicles,9
+Sweden,Historical,EV stock,Vans,BEV,2011,Vehicles,9
+Sweden,Historical,EV stock,Vans,BEV,2012,Vehicles,370
+Sweden,Historical,EV sales,Vans,BEV,2012,Vehicles,280
+Sweden,Historical,EV stock share,Vans,EV,2012,percent,0.07599999755620956
+Sweden,Historical,EV sales share,Vans,EV,2012,percent,0.699999988079071
+Sweden,Historical,EV sales share,Vans,EV,2013,percent,0.550000011920929
+Sweden,Historical,EV stock share,Vans,EV,2013,percent,0.10999999940395355
+Sweden,Historical,EV sales,Vans,BEV,2013,Vehicles,210
+Sweden,Historical,EV stock,Vans,BEV,2013,Vehicles,550
+Sweden,Historical,EV stock,Vans,BEV,2014,Vehicles,830
+Sweden,Historical,EV sales,Vans,BEV,2014,Vehicles,280
+Sweden,Historical,EV stock share,Vans,EV,2014,percent,0.1599999964237213
+Sweden,Historical,EV sales share,Vans,EV,2014,percent,0.6600000262260437
+Sweden,Historical,EV sales share,Vans,EV,2015,percent,0.7200000286102295
+Sweden,Historical,EV stock share,Vans,EV,2015,percent,0.23999999463558197
+Sweden,Historical,EV sales,Vans,BEV,2015,Vehicles,320
+Sweden,Historical,EV stock,Vans,BEV,2015,Vehicles,1200
+Sweden,Historical,EV stock,Vans,PHEV,2015,Vehicles,7
+Sweden,Historical,EV sales,Vans,PHEV,2015,Vehicles,7
+Sweden,Historical,EV stock,Vans,PHEV,2016,Vehicles,7
+Sweden,Historical,EV stock,Vans,BEV,2016,Vehicles,1600
+Sweden,Historical,EV sales,Vans,BEV,2016,Vehicles,45
+Sweden,Historical,EV stock share,Vans,EV,2016,percent,0.28999999165534973
+Sweden,Historical,EV sales share,Vans,EV,2016,percent,0.08399999886751175
+Sweden,Historical,EV sales share,Vans,EV,2017,percent,0.3400000035762787
+Sweden,Historical,EV stock share,Vans,EV,2017,percent,0.3499999940395355
+Sweden,Historical,EV sales,Vans,BEV,2017,Vehicles,200
+Sweden,Historical,EV stock,Vans,BEV,2017,Vehicles,1900
+Sweden,Historical,EV stock,Vans,PHEV,2017,Vehicles,7
+Sweden,Historical,EV stock,Vans,PHEV,2018,Vehicles,16
+Sweden,Historical,EV stock,Vans,BEV,2018,Vehicles,2700
+Sweden,Historical,EV sales,Vans,BEV,2018,Vehicles,760
+Sweden,Historical,EV sales,Vans,PHEV,2018,Vehicles,9
+Sweden,Historical,EV stock share,Vans,EV,2018,percent,0.4699999988079071
+Sweden,Historical,EV sales share,Vans,EV,2018,percent,1.2999999523162842
+Sweden,Historical,EV sales share,Vans,EV,2019,percent,2.5
+Sweden,Historical,EV stock share,Vans,EV,2019,percent,0.6800000071525574
+Sweden,Historical,EV sales,Vans,BEV,2019,Vehicles,1400
+Sweden,Historical,EV stock,Vans,BEV,2019,Vehicles,3900
+Sweden,Historical,EV stock,Vans,PHEV,2019,Vehicles,4
+Sweden,Historical,EV stock,Vans,PHEV,2020,Vehicles,880
+Sweden,Historical,EV stock,Vans,BEV,2020,Vehicles,5900
+Sweden,Historical,EV sales,Vans,BEV,2020,Vehicles,2100
+Sweden,Historical,EV stock share,Vans,EV,2020,percent,1.100000023841858
+Sweden,Historical,EV sales share,Vans,EV,2020,percent,6.099999904632568
+Sweden,Historical,EV sales share,Vans,EV,2021,percent,6.800000190734863
+Sweden,Historical,EV stock share,Vans,EV,2021,percent,1.399999976158142
+Sweden,Historical,EV sales,Vans,BEV,2021,Vehicles,2600
+Sweden,Historical,EV stock,Vans,BEV,2021,Vehicles,8400
+Sweden,Historical,EV stock,Vans,PHEV,2021,Vehicles,160
+Sweden,Historical,EV stock,Vans,PHEV,2022,Vehicles,420
+Sweden,Historical,EV stock,Vans,BEV,2022,Vehicles,13000
+Sweden,Historical,EV sales,Vans,BEV,2022,Vehicles,5000
+Sweden,Historical,EV stock share,Vans,EV,2022,percent,2.299999952316284
+Sweden,Historical,EV sales share,Vans,EV,2022,percent,13
+Sweden,Historical,EV sales share,Vans,EV,2023,percent,19
+Sweden,Historical,EV stock share,Vans,EV,2023,percent,3.5
+Sweden,Historical,EV sales,Vans,BEV,2023,Vehicles,8700
+Sweden,Historical,EV stock,Vans,BEV,2023,Vehicles,21000
+Sweden,Historical,EV stock,Vans,PHEV,2023,Vehicles,430
+Sweden,Historical,EV sales,Vans,PHEV,2023,Vehicles,5
+Switzerland,Historical,EV sales,Vans,BEV,2012,Vehicles,120
+Switzerland,Historical,EV stock,Vans,BEV,2012,Vehicles,120
+Switzerland,Historical,EV sales share,Vans,EV,2012,percent,0.3799999952316284
+Switzerland,Historical,EV stock share,Vans,EV,2012,percent,0.03999999910593033
+Switzerland,Historical,EV stock share,Vans,EV,2013,percent,0.07199999690055847
+Switzerland,Historical,EV sales share,Vans,EV,2013,percent,0.3799999952316284
+Switzerland,Historical,EV stock,Vans,BEV,2013,Vehicles,230
+Switzerland,Historical,EV sales,Vans,BEV,2013,Vehicles,110
+Switzerland,Historical,EV sales,Vans,BEV,2014,Vehicles,52
+Switzerland,Historical,EV stock,Vans,BEV,2014,Vehicles,290
+Switzerland,Historical,EV sales share,Vans,EV,2014,percent,0.18000000715255737
+Switzerland,Historical,EV stock share,Vans,EV,2014,percent,0.08500000089406967
+Switzerland,Historical,EV stock share,Vans,EV,2015,percent,0.12999999523162842
+Switzerland,Historical,EV sales share,Vans,EV,2015,percent,0.5099999904632568
+Switzerland,Historical,EV stock,Vans,BEV,2015,Vehicles,440
+Switzerland,Historical,EV sales,Vans,BEV,2015,Vehicles,160
+Switzerland,Historical,EV sales,Vans,BEV,2016,Vehicles,85
+Switzerland,Historical,EV stock,Vans,BEV,2016,Vehicles,540
+Switzerland,Historical,EV sales share,Vans,EV,2016,percent,0.2800000011920929
+Switzerland,Historical,EV stock share,Vans,EV,2016,percent,0.15000000596046448
+Switzerland,Historical,EV stock share,Vans,EV,2017,percent,0.17000000178813934
+Switzerland,Historical,EV sales share,Vans,EV,2017,percent,0.6700000166893005
+Switzerland,Historical,EV stock,Vans,BEV,2017,Vehicles,620
+Switzerland,Historical,EV sales,Vans,BEV,2017,Vehicles,220
+Switzerland,Historical,EV sales,Vans,BEV,2018,Vehicles,300
+Switzerland,Historical,EV stock,Vans,BEV,2018,Vehicles,1000
+Switzerland,Historical,EV sales share,Vans,EV,2018,percent,0.8999999761581421
+Switzerland,Historical,EV stock share,Vans,EV,2018,percent,0.25999999046325684
+Switzerland,Historical,EV stock share,Vans,EV,2019,percent,0.4099999964237213
+Switzerland,Historical,EV sales share,Vans,EV,2019,percent,1.600000023841858
+Switzerland,Historical,EV stock,Vans,BEV,2019,Vehicles,1600
+Switzerland,Historical,EV sales,Vans,BEV,2019,Vehicles,580
+Switzerland,Historical,EV sales,Vans,BEV,2020,Vehicles,780
+Switzerland,Historical,EV stock,Vans,BEV,2020,Vehicles,2400
+Switzerland,Historical,EV sales,Vans,PHEV,2020,Vehicles,9
+Switzerland,Historical,EV stock,Vans,PHEV,2020,Vehicles,9
+Switzerland,Historical,EV sales share,Vans,EV,2020,percent,2.799999952316284
+Switzerland,Historical,EV stock share,Vans,EV,2020,percent,0.5799999833106995
+Switzerland,Historical,EV stock share,Vans,EV,2021,percent,0.9200000166893005
+Switzerland,Historical,EV sales share,Vans,EV,2021,percent,3.9000000953674316
+Switzerland,Historical,EV stock,Vans,PHEV,2021,Vehicles,180
+Switzerland,Historical,EV sales,Vans,PHEV,2021,Vehicles,170
+Switzerland,Historical,EV stock,Vans,BEV,2021,Vehicles,3700
+Switzerland,Historical,EV sales,Vans,BEV,2021,Vehicles,1300
+Switzerland,Historical,EV sales,Vans,BEV,2022,Vehicles,2400
+Switzerland,Historical,EV stock,Vans,BEV,2022,Vehicles,6500
+Switzerland,Historical,EV sales,Vans,PHEV,2022,Vehicles,4
+Switzerland,Historical,EV stock,Vans,FCEV,2022,Vehicles,10
+Switzerland,Historical,EV stock,Vans,PHEV,2022,Vehicles,190
+Switzerland,Historical,EV sales share,Vans,EV,2022,percent,9.600000381469727
+Switzerland,Historical,EV stock share,Vans,EV,2022,percent,1.600000023841858
+Switzerland,Historical,EV stock share,Vans,EV,2023,percent,2.299999952316284
+Switzerland,Historical,EV sales share,Vans,EV,2023,percent,13
+Switzerland,Historical,EV stock,Vans,PHEV,2023,Vehicles,190
+Switzerland,Historical,EV stock,Vans,BEV,2023,Vehicles,10000
+Switzerland,Historical,EV sales,Vans,BEV,2023,Vehicles,3900
+United Kingdom,Historical,EV stock,Vans,FCEV,2010,Vehicles,4
+United Kingdom,Historical,EV sales,Vans,BEV,2010,Vehicles,230
+United Kingdom,Historical,EV stock,Vans,BEV,2010,Vehicles,3700
+United Kingdom,Historical,EV stock share,Vans,EV,2010,percent,0.10999999940395355
+United Kingdom,Historical,EV sales share,Vans,EV,2010,percent,0.10000000149011612
+United Kingdom,Historical,EV sales share,Vans,EV,2011,percent,0.08500000089406967
+United Kingdom,Historical,EV stock share,Vans,EV,2011,percent,0.0989999994635582
+United Kingdom,Historical,EV stock,Vans,BEV,2011,Vehicles,3600
+United Kingdom,Historical,EV sales,Vans,BEV,2011,Vehicles,220
+United Kingdom,Historical,EV stock,Vans,FCEV,2011,Vehicles,4
+United Kingdom,Historical,EV stock,Vans,FCEV,2012,Vehicles,4
+United Kingdom,Historical,EV sales,Vans,BEV,2012,Vehicles,410
+United Kingdom,Historical,EV stock,Vans,BEV,2012,Vehicles,3700
+United Kingdom,Historical,EV stock share,Vans,EV,2012,percent,0.10000000149011612
+United Kingdom,Historical,EV sales share,Vans,EV,2012,percent,0.17000000178813934
+United Kingdom,Historical,EV sales share,Vans,EV,2013,percent,0.10999999940395355
+United Kingdom,Historical,EV stock share,Vans,EV,2013,percent,0.09700000286102295
+United Kingdom,Historical,EV stock,Vans,BEV,2013,Vehicles,3600
+United Kingdom,Historical,EV sales,Vans,BEV,2013,Vehicles,290
+United Kingdom,Historical,EV stock,Vans,FCEV,2013,Vehicles,4
+United Kingdom,Historical,EV stock,Vans,FCEV,2014,Vehicles,4
+United Kingdom,Historical,EV sales,Vans,PHEV,2014,Vehicles,4
+United Kingdom,Historical,EV stock,Vans,PHEV,2014,Vehicles,4
+United Kingdom,Historical,EV sales,Vans,BEV,2014,Vehicles,790
+United Kingdom,Historical,EV stock,Vans,BEV,2014,Vehicles,4100
+United Kingdom,Historical,EV stock share,Vans,EV,2014,percent,0.10999999940395355
+United Kingdom,Historical,EV sales share,Vans,EV,2014,percent,0.25
+United Kingdom,Historical,EV sales share,Vans,EV,2015,percent,0.2800000011920929
+United Kingdom,Historical,EV stock share,Vans,EV,2015,percent,0.11999999731779099
+United Kingdom,Historical,EV stock,Vans,BEV,2015,Vehicles,4600
+United Kingdom,Historical,EV sales,Vans,BEV,2015,Vehicles,960
+United Kingdom,Historical,EV stock,Vans,PHEV,2015,Vehicles,100
+United Kingdom,Historical,EV sales,Vans,PHEV,2015,Vehicles,98
+United Kingdom,Historical,EV stock,Vans,FCEV,2015,Vehicles,4
+United Kingdom,Historical,EV stock,Vans,FCEV,2016,Vehicles,3
+United Kingdom,Historical,EV sales,Vans,PHEV,2016,Vehicles,78
+United Kingdom,Historical,EV stock,Vans,PHEV,2016,Vehicles,180
+United Kingdom,Historical,EV sales,Vans,BEV,2016,Vehicles,1000
+United Kingdom,Historical,EV stock,Vans,BEV,2016,Vehicles,5300
+United Kingdom,Historical,EV stock share,Vans,EV,2016,percent,0.12999999523162842
+United Kingdom,Historical,EV sales share,Vans,EV,2016,percent,0.28999999165534973
+United Kingdom,Historical,EV stock share,Vans,EV,2017,percent,0.15000000596046448
+United Kingdom,Historical,EV sales share,Vans,EV,2017,percent,0.3700000047683716
+United Kingdom,Historical,EV stock,Vans,BEV,2017,Vehicles,6300
+United Kingdom,Historical,EV sales,Vans,BEV,2017,Vehicles,1300
+United Kingdom,Historical,EV stock,Vans,PHEV,2017,Vehicles,220
+United Kingdom,Historical,EV sales,Vans,PHEV,2017,Vehicles,94
+United Kingdom,Historical,EV stock,Vans,FCEV,2017,Vehicles,4
+United Kingdom,Historical,EV stock,Vans,FCEV,2018,Vehicles,3
+United Kingdom,Historical,EV sales,Vans,PHEV,2018,Vehicles,150
+United Kingdom,Historical,EV stock,Vans,PHEV,2018,Vehicles,410
+United Kingdom,Historical,EV sales,Vans,BEV,2018,Vehicles,1500
+United Kingdom,Historical,EV stock,Vans,BEV,2018,Vehicles,7500
+United Kingdom,Historical,EV sales share,Vans,EV,2018,percent,0.44999998807907104
+United Kingdom,Historical,EV stock share,Vans,EV,2018,percent,0.18000000715255737
+United Kingdom,Historical,EV stock share,Vans,EV,2019,percent,0.23999999463558197
+United Kingdom,Historical,EV sales share,Vans,EV,2019,percent,0.9700000286102295
+United Kingdom,Historical,EV stock,Vans,BEV,2019,Vehicles,10000
+United Kingdom,Historical,EV sales,Vans,BEV,2019,Vehicles,3500
+United Kingdom,Historical,EV stock,Vans,PHEV,2019,Vehicles,590
+United Kingdom,Historical,EV sales,Vans,PHEV,2019,Vehicles,210
+United Kingdom,Historical,EV stock,Vans,FCEV,2019,Vehicles,4
+United Kingdom,Historical,EV stock,Vans,FCEV,2020,Vehicles,4
+United Kingdom,Historical,EV sales,Vans,PHEV,2020,Vehicles,560
+United Kingdom,Historical,EV stock,Vans,PHEV,2020,Vehicles,1100
+United Kingdom,Historical,EV sales,Vans,BEV,2020,Vehicles,5700
+United Kingdom,Historical,EV stock,Vans,BEV,2020,Vehicles,16000
+United Kingdom,Historical,EV sales share,Vans,EV,2020,percent,2.0999999046325684
+United Kingdom,Historical,EV stock share,Vans,EV,2020,percent,0.3199999928474426
+United Kingdom,Historical,EV stock share,Vans,EV,2021,percent,0.5600000023841858
+United Kingdom,Historical,EV sales share,Vans,EV,2021,percent,3.799999952316284
+United Kingdom,Historical,EV stock,Vans,BEV,2021,Vehicles,28000
+United Kingdom,Historical,EV sales,Vans,BEV,2021,Vehicles,12000
+United Kingdom,Historical,EV stock,Vans,PHEV,2021,Vehicles,2300
+United Kingdom,Historical,EV sales,Vans,PHEV,2021,Vehicles,1200
+United Kingdom,Historical,EV stock,Vans,FCEV,2021,Vehicles,5
+United Kingdom,Historical,EV stock,Vans,FCEV,2022,Vehicles,5
+United Kingdom,Historical,EV sales,Vans,PHEV,2022,Vehicles,410
+United Kingdom,Historical,EV stock,Vans,PHEV,2022,Vehicles,2700
+United Kingdom,Historical,EV sales,Vans,BEV,2022,Vehicles,17000
+United Kingdom,Historical,EV stock,Vans,BEV,2022,Vehicles,39000
+United Kingdom,Historical,EV sales share,Vans,EV,2022,percent,6.199999809265137
+United Kingdom,Historical,EV stock share,Vans,EV,2022,percent,0.7799999713897705
+United Kingdom,Historical,EV stock share,Vans,EV,2023,percent,1.2999999523162842
+United Kingdom,Historical,EV sales share,Vans,EV,2023,percent,6.5
+United Kingdom,Historical,EV stock,Vans,BEV,2023,Vehicles,68000
+United Kingdom,Historical,EV sales,Vans,BEV,2023,Vehicles,22000
+United Kingdom,Historical,EV stock,Vans,PHEV,2023,Vehicles,2900
+United Kingdom,Historical,EV sales,Vans,PHEV,2023,Vehicles,110
+World,Historical,EV stock share,Vans,EV,2010,percent,0.006200000178068876
+World,Historical,EV sales share,Vans,EV,2010,percent,0.01899999938905239
+World,Historical,Oil displacement Mbd,Vans,EV,2010,Milion barrels per day,0.00016999999934341758
+World,Historical,"Oil displacement, million lge",Vans,EV,2010,"Oil displacement, million lge",10
+World,Historical,EV sales,Vans,BEV,2010,Vehicles,1700
+World,Historical,EV stock,Vans,BEV,2010,Vehicles,7100
+World,Historical,EV sales,Vans,FCEV,2010,Vehicles,2
+World,Historical,EV stock,Vans,FCEV,2010,Vehicles,6
+World,Historical,EV stock,Vans,PHEV,2010,Vehicles,210
+World,Historical,Electricity demand,Vans,EV,2010,GWh,84
+World,Historical,Electricity demand,Vans,EV,2011,GWh,85
+World,Historical,EV stock,Vans,PHEV,2011,Vehicles,260
+World,Historical,EV stock,Vans,FCEV,2011,Vehicles,6
+World,Historical,EV stock,Vans,BEV,2011,Vehicles,10000
+World,Historical,EV sales,Vans,BEV,2011,Vehicles,3700
+World,Historical,Oil displacement Mbd,Vans,EV,2011,Milion barrels per day,0.00031999999191612005
+World,Historical,"Oil displacement, million lge",Vans,EV,2011,"Oil displacement, million lge",18
+World,Historical,EV sales share,Vans,EV,2011,percent,0.04100000113248825
+World,Historical,EV stock share,Vans,EV,2011,percent,0.008799999952316284
+World,Historical,EV stock share,Vans,EV,2012,percent,0.017000000923871994
+World,Historical,EV sales share,Vans,EV,2012,percent,0.11999999731779099
+World,Historical,Oil displacement Mbd,Vans,EV,2012,Milion barrels per day,0.0008299999753944576
+World,Historical,"Oil displacement, million lge",Vans,EV,2012,"Oil displacement, million lge",48
+World,Historical,EV sales,Vans,BEV,2012,Vehicles,11000
+World,Historical,EV stock,Vans,BEV,2012,Vehicles,21000
+World,Historical,EV stock,Vans,FCEV,2012,Vehicles,7
+World,Historical,EV sales,Vans,PHEV,2012,Vehicles,11
+World,Historical,EV stock,Vans,PHEV,2012,Vehicles,310
+World,Historical,Electricity demand,Vans,EV,2012,GWh,190
+World,Historical,Electricity demand,Vans,EV,2013,GWh,250
+World,Historical,EV stock,Vans,PHEV,2013,Vehicles,370
+World,Historical,EV stock share,Vans,EV,2013,percent,0.02500000037252903
+World,Historical,EV sales,Vans,PHEV,2013,Vehicles,5
+World,Historical,EV stock,Vans,FCEV,2013,Vehicles,56
+World,Historical,EV stock,Vans,BEV,2013,Vehicles,31000
+World,Historical,EV sales,Vans,FCEV,2013,Vehicles,50
+World,Historical,EV sales,Vans,BEV,2013,Vehicles,11000
+World,Historical,Oil displacement Mbd,Vans,EV,2013,Milion barrels per day,0.0013000000035390258
+World,Historical,"Oil displacement, million lge",Vans,EV,2013,"Oil displacement, million lge",76
+World,Historical,EV sales share,Vans,EV,2013,percent,0.12999999523162842
+World,Historical,EV sales share,Vans,EV,2014,percent,0.11999999731779099
+World,Historical,Oil displacement Mbd,Vans,EV,2014,Milion barrels per day,0.0017999999690800905
+World,Historical,"Oil displacement, million lge",Vans,EV,2014,"Oil displacement, million lge",110
+World,Historical,EV sales,Vans,BEV,2014,Vehicles,11000
+World,Historical,EV sales,Vans,FCEV,2014,Vehicles,85
+World,Historical,EV stock,Vans,BEV,2014,Vehicles,43000
+World,Historical,EV stock,Vans,FCEV,2014,Vehicles,89
+World,Historical,EV sales,Vans,PHEV,2014,Vehicles,20
+World,Historical,EV stock share,Vans,EV,2014,percent,0.032999999821186066
+World,Historical,EV stock,Vans,PHEV,2014,Vehicles,460
+World,Historical,Electricity demand,Vans,EV,2014,GWh,600
+World,Historical,EV stock,Vans,PHEV,2015,Vehicles,1500
+World,Historical,EV stock share,Vans,EV,2015,percent,0.052000001072883606
+World,Historical,EV sales,Vans,PHEV,2015,Vehicles,780
+World,Historical,EV stock,Vans,FCEV,2015,Vehicles,160
+World,Historical,EV stock,Vans,BEV,2015,Vehicles,67000
+World,Historical,EV sales,Vans,FCEV,2015,Vehicles,140
+World,Historical,EV sales,Vans,BEV,2015,Vehicles,27000
+World,Historical,Electricity demand,Vans,EV,2015,GWh,860
+World,Historical,Oil displacement Mbd,Vans,EV,2015,Milion barrels per day,0.0027000000700354576
+World,Historical,EV sales share,Vans,EV,2015,percent,0.28999999165534973
+World,Historical,"Oil displacement, million lge",Vans,EV,2015,"Oil displacement, million lge",160
+World,Historical,Oil displacement Mbd,Vans,EV,2016,Milion barrels per day,0.0034000000450760126
+World,Historical,"Oil displacement, million lge",Vans,EV,2016,"Oil displacement, million lge",200
+World,Historical,EV sales share,Vans,EV,2016,percent,0.23999999463558197
+World,Historical,Electricity demand,Vans,EV,2016,GWh,840
+World,Historical,EV sales,Vans,BEV,2016,Vehicles,23000
+World,Historical,EV sales,Vans,FCEV,2016,Vehicles,99
+World,Historical,EV stock,Vans,BEV,2016,Vehicles,120000
+World,Historical,EV stock,Vans,FCEV,2016,Vehicles,250
+World,Historical,EV sales,Vans,PHEV,2016,Vehicles,170
+World,Historical,EV stock share,Vans,EV,2016,percent,0.08900000154972076
+World,Historical,EV stock,Vans,PHEV,2016,Vehicles,2000
+World,Historical,EV stock,Vans,PHEV,2017,Vehicles,2700
+World,Historical,EV stock share,Vans,EV,2017,percent,0.15000000596046448
+World,Historical,EV sales,Vans,PHEV,2017,Vehicles,140
+World,Historical,EV stock,Vans,FCEV,2017,Vehicles,280
+World,Historical,EV stock,Vans,BEV,2017,Vehicles,200000
+World,Historical,EV sales,Vans,FCEV,2017,Vehicles,26
+World,Historical,EV sales,Vans,BEV,2017,Vehicles,86000
+World,Historical,Electricity demand,Vans,EV,2017,GWh,1000
+World,Historical,EV sales share,Vans,EV,2017,percent,0.8700000047683716
+World,Historical,Oil displacement Mbd,Vans,EV,2017,Milion barrels per day,0.006599999964237213
+World,Historical,"Oil displacement, million lge",Vans,EV,2017,"Oil displacement, million lge",390
+World,Historical,Oil displacement Mbd,Vans,EV,2018,Milion barrels per day,0.007199999876320362
+World,Historical,"Oil displacement, million lge",Vans,EV,2018,"Oil displacement, million lge",430
+World,Historical,EV sales share,Vans,EV,2018,percent,0.7799999713897705
+World,Historical,Electricity demand,Vans,EV,2018,GWh,1000
+World,Historical,EV sales,Vans,BEV,2018,Vehicles,80000
+World,Historical,EV sales,Vans,FCEV,2018,Vehicles,96
+World,Historical,EV stock,Vans,BEV,2018,Vehicles,310000
+World,Historical,EV stock,Vans,FCEV,2018,Vehicles,370
+World,Historical,EV sales,Vans,PHEV,2018,Vehicles,190
+World,Historical,EV stock share,Vans,EV,2018,percent,0.23000000417232513
+World,Historical,EV stock,Vans,PHEV,2018,Vehicles,3800
+World,Historical,EV stock,Vans,PHEV,2019,Vehicles,5800
+World,Historical,EV stock share,Vans,EV,2019,percent,0.27000001072883606
+World,Historical,EV sales,Vans,PHEV,2019,Vehicles,280
+World,Historical,EV stock,Vans,FCEV,2019,Vehicles,370
+World,Historical,EV stock,Vans,BEV,2019,Vehicles,390000
+World,Historical,EV sales,Vans,FCEV,2019,Vehicles,15
+World,Historical,EV sales,Vans,BEV,2019,Vehicles,59000
+World,Historical,Electricity demand,Vans,EV,2019,GWh,1100
+World,Historical,EV sales share,Vans,EV,2019,percent,0.5600000023841858
+World,Historical,Oil displacement Mbd,Vans,EV,2019,Milion barrels per day,0.008500000461935997
+World,Historical,"Oil displacement, million lge",Vans,EV,2019,"Oil displacement, million lge",500
+World,Historical,Oil displacement Mbd,Vans,EV,2020,Milion barrels per day,0.00989999994635582
+World,Historical,"Oil displacement, million lge",Vans,EV,2020,"Oil displacement, million lge",580
+World,Historical,EV sales share,Vans,EV,2020,percent,0.9200000166893005
+World,Historical,Electricity demand,Vans,EV,2020,GWh,1400
+World,Historical,EV sales,Vans,BEV,2020,Vehicles,84000
+World,Historical,EV sales,Vans,FCEV,2020,Vehicles,60
+World,Historical,EV stock,Vans,BEV,2020,Vehicles,460000
+World,Historical,EV stock,Vans,FCEV,2020,Vehicles,400
+World,Historical,EV sales,Vans,PHEV,2020,Vehicles,2500
+World,Historical,EV stock share,Vans,EV,2020,percent,0.3199999928474426
+World,Historical,EV stock,Vans,PHEV,2020,Vehicles,8000
+World,Historical,EV stock,Vans,PHEV,2021,Vehicles,7800
+World,Historical,EV stock share,Vans,EV,2021,percent,0.41999998688697815
+World,Historical,EV sales,Vans,PHEV,2021,Vehicles,6300
+World,Historical,EV stock,Vans,FCEV,2021,Vehicles,460
+World,Historical,EV stock,Vans,BEV,2021,Vehicles,610000
+World,Historical,EV sales,Vans,FCEV,2021,Vehicles,84
+World,Historical,EV sales,Vans,BEV,2021,Vehicles,170000
+World,Historical,Electricity demand,Vans,EV,2021,GWh,2200
+World,Historical,Oil displacement Mbd,Vans,EV,2021,Milion barrels per day,0.01600000075995922
+World,Historical,"Oil displacement, million lge",Vans,EV,2021,"Oil displacement, million lge",920
+World,Historical,EV sales share,Vans,EV,2021,percent,1.7000000476837158
+World,Historical,EV sales share,Vans,EV,2022,percent,3.200000047683716
+World,Historical,Oil displacement Mbd,Vans,EV,2022,Milion barrels per day,0.02500000037252903
+World,Historical,"Oil displacement, million lge",Vans,EV,2022,"Oil displacement, million lge",1400
+World,Historical,Electricity demand,Vans,EV,2022,GWh,2900
+World,Historical,EV sales,Vans,BEV,2022,Vehicles,310000
+World,Historical,EV sales,Vans,FCEV,2022,Vehicles,810
+World,Historical,EV stock,Vans,BEV,2022,Vehicles,890000
+World,Historical,EV stock,Vans,FCEV,2022,Vehicles,1300
+World,Historical,EV sales,Vans,PHEV,2022,Vehicles,7900
+World,Historical,EV stock share,Vans,EV,2022,percent,0.6000000238418579
+World,Historical,EV stock,Vans,PHEV,2022,Vehicles,11000
+World,Historical,EV stock,Vans,PHEV,2023,Vehicles,15000
+World,Historical,EV stock share,Vans,EV,2023,percent,0.8500000238418579
+World,Historical,EV sales,Vans,PHEV,2023,Vehicles,6600
+World,Historical,EV stock,Vans,FCEV,2023,Vehicles,3200
+World,Historical,EV stock,Vans,BEV,2023,Vehicles,1300000
+World,Historical,EV sales,Vans,FCEV,2023,Vehicles,2000
+World,Historical,EV sales,Vans,BEV,2023,Vehicles,460000
+World,Historical,Electricity demand,Vans,EV,2023,GWh,6700
+World,Historical,Oil displacement Mbd,Vans,EV,2023,Milion barrels per day,0.041999999433755875
+World,Historical,"Oil displacement, million lge",Vans,EV,2023,"Oil displacement, million lge",2500
+World,Historical,EV sales share,Vans,EV,2023,percent,4.400000095367432
