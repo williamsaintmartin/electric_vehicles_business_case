@@ -19,7 +19,7 @@ Les dirigeants de VOLT MOTION INNOVATIONS souhaitent obtenir une analyse des KPI
 - Nombre de ventes par région, par année, et par type de véhicules
 - Taux d'évolution du nombre de ventes par région, par année, et par type de véhicules
 - Prédictions du nombre de ventes par région, pour l’année en cours, et par type de véhicules
-- 
+
 La présentation de l'application et des résultats de l'analyse des KPIs se déroulera le 30 août 2024 (délai de 48h), en binôme.
 
 ## Technologies Utilisées
